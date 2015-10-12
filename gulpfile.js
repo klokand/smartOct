@@ -19,6 +19,7 @@ elixir(function(mix) {
 	mix.scripts([
 		'vendor/js/jquery.min.js',
 		'vendor/js/bootstrap.min.js',
+		'vendor/js/jquery.menu-aim.js',
 		'js/app.js'
 	],'public/output/final.js','resources/assets');
 	mix.copy('resources/assets/img','public/img');
