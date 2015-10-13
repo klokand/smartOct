@@ -48,4 +48,11 @@
 <h4 class="col-md-4">Download QuickSmart Brochure</h4>
 <a href="http://www.quicksmartgo.com/index.php?option=com_rubberdoc&amp;view=doc&amp;id=1&amp;format=raw" class="col-md-8"><img src="/img/quicksmart-brochure.jpg" alt=""></a>
 </div>
+<div class="col-md-12 footer6">
+	<ul>
+		<li>© Funtastic Limited</li>
+		<li><a href="/sitemap">Sitemap</a></li>
+		<li><a href="/privacy-policy">Privacy Policy</a></li>
+	</ul>
+</div>
 </div>

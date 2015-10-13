@@ -90,10 +90,10 @@ margin-bottom: 20px;
 
 /*****footer*****/
 #footer{
-	 clear: both;
-	margin: 0 auto -15px;
-	height: 197px;
-	background: url(/img/ft.png) no-repeat;
+	width: 98.7%;
+	height: 186px;
+	background: url(/img/ft.png);
+	background-repeat: repeat;
 	color: #fff;
 }
 #footer ul{
@@ -127,16 +127,26 @@ left: -35px;
 width: 24%;
 }
 #footer .footer5 h4{
-width: 64%;
 position: relative;
-bottom: -120px;
-left: -22px;
+bottom: -100px;
 font-size: 13px;
+left: -18px;
 }
 #footer .footer5 a{
 position: relative;
-top: -48px;
-right: -66px;
+top: 15px;
+}
+
+#footer .footer6{
+	padding:0px;
+}
+#footer .footer6 ul li{
+	padding-right:10px;
+	display: inline;
+	color:#aeb1ae;
+}
+#footer .footer6 ul li a{
+	color:#aeb1ae;
 }
 	
 }
