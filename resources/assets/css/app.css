@@ -74,18 +74,56 @@ color: white;
 background-color: #0081C2;
 }
 
+#carousel-slider{
+	width: 90%;
+position: relative;
+left: 40px;
+height: 505px;
+}
+
 #buttons-section{
 position: relative;
 width: 90%;
 top: 10px;
 left: 55px;
-padding: 37px;
+padding: 15px;
 background: url(/img/promo-box.png) no-repeat;
+margin-top: 10px;
+margin-bottom: 30px;
 }
 #video-action{
 	height: 233px;
-background: url(/img/promo-box.png) no-repeat;
-margin-bottom: 20px;
+background: url(/img/demo.png) repeat;
+margin-left: 38px;
+padding-bottom: 0px;
+width: 90.5%;
+}
+#video-action h2{
+	font-size: 25px;
+	font-weight: bold;
+	padding-top: 16px;
+	padding-left: 16px;
+	padding-bottom: 34px;
+}
+#video-action p{
+	text-align:center;
+}
+#products{
+height: 233px;
+margin-left: 38px;
+padding-bottom: 0px;
+width: 90.5%;
+}
+#products h2{
+	font-size: 25px;
+	font-weight: bold;
+	padding-top: 16px;
+	padding-left: 16px;
+	padding-bottom: 34px;
+}
+
+#products div{
+	padding-bottom: 20px;
 }
 
 /*****footer*****/

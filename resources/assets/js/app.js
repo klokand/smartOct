@@ -59,4 +59,4 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
   
-  $('#slider').carousel()
+  $('#carousel-slider').carousel();
