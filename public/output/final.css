@@ -40,7 +40,7 @@
 		 clear: both;
 	}
 	
-	/*nav bar*/
+/*nav bar*/
 	#nav{
 		clear: left;
 	}
@@ -92,6 +92,60 @@ background: url(/img/promo-box.png) no-repeat;
 background: url(/img/promo-box.png) no-repeat;
 margin-bottom: 20px;
 }
+
+/*****footer*****/
+#footer{
+	 clear: both;
+	margin: 0 auto -15px;
+	height: 197px;
+	background: url(/img/ft.png) no-repeat;
+	color: #fff;
+}
+#footer ul{
+	list-style:none;
+}
+#footer ul li{
+	font-size:13px;
+}
+#footer a{
+	color: #fff;
+}
+#footer .footer1{
+	padding: 0;
+	width: 19%;
+}
+#footer .footer2{
+	padding: 0;
+	width: 23%;
+}
+#footer .footer3{
+padding: 0;
+position: relative;
+left: -30px;
+}
+#footer .footer4{
+padding: 0;
+position: relative;
+left: -35px;
+}
+#footer .footer5{
+width: 24%;
+}
+#footer .footer5 h4{
+width: 64%;
+position: relative;
+bottom: -120px;
+left: -22px;
+font-size: 13px;
+}
+#footer .footer5 a{
+position: relative;
+top: -48px;
+right: -66px;
+}
 	
+}
+body{
+	font: 13px/1.231 "Trebuchet MS", Arial, Helvetica, sans-serif;
 }
 /*# sourceMappingURL=final.css.map */
