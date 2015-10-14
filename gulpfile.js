@@ -14,12 +14,14 @@ var elixir = require('laravel-elixir');
 elixir(function(mix) {
     mix.styles([
 		'vendor/css/bootstrap.min.css',
+		'vendor/css/jquery.myelinSilder.css',
+		'vendor/css/font-awesome.min.css',
 		'css/app.css'
 	],'public/output/final.css','resources/assets');
 	mix.scripts([
 		'vendor/js/jquery.min.js',
 		'vendor/js/bootstrap.min.js',
-		'vendor/js/jquery.menu-aim.js',
+		'vendor/js/jquery.myelinSilder.js',
 		'js/app.js'
 	],'public/output/final.js','resources/assets');
 	mix.copy('resources/assets/img','public/img');

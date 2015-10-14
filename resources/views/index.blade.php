@@ -14,13 +14,13 @@
 	<a href="#"><img src="/img/easyfold-stroller-video.png"></a><p>Easy Fold Stroller</p>
 	</div>
 	<div class="col-md-3">
-	<a href="#"><img src="/img/easyfold-stroller-video.png"></a><p>Easy Fold Stroller</p>
+	<a href="#"><img src="/img/backpack-stroller-video.png"></a><p>Backpack Stroller</p>
 	</div>
 	<div class="col-md-3">
-	<a href="#"><img src="/img/easyfold-stroller-video.png"></a><p>Easy Fold Stroller</p>
+	<a href="#"><img src="/img/travel-cot-video.png"></a><p>3 in 1 Travel Cot</p>
 	</div>
 	<div class="col-md-3">
-	<a href="#"><img src="/img/easyfold-stroller-video.png"></a><p>Easy Fold Stroller</p>
+	<a href="#"><img src="/img/easyfold-stroller-video.png"></a><p>Safe Guard Stroller</p>
 	</div>
 </div>
 <div id="products">

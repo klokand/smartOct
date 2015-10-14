@@ -36,49 +36,26 @@
 	}
 	
 /*nav bar*/
-	#nav{
-		clear: left;
-	}
-	.navbar .popover {
-width: 400px;
--webkit-border-top-left-radius: 0px;
--webkit-border-bottom-left-radius: 0px;
-border-top-left-radius: 0px;
-border-bottom-left-radius: 0px;
-overflow: hidden;
+.navbar{
+	z-index:1;
 }
-.navbar .popover-content {
-text-align: center;
+.dropdown-menu{
+	padding:0px !important;
 }
-.navbar .popover-content img {
-height: 212px;
-max-width: 250px;
-}
-.navbar .dropdown-menu {
--webkit-border-top-right-radius: 0px;
--webkit-border-bottom-right-radius: 0px;
-border-top-right-radius: 0px;
-border-bottom-right-radius: 0px;
--webkit-box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
--moz-box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
-box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
-}
-.navbar .dropdown-menu > li > a:hover {
-background-image: none;
-color: white;
-background-color: rgb(0, 129, 194);
-background-color: rgba(0, 129, 194, 0.5);
-}
-.navbar .dropdown-menu > li > a.maintainHover {
-color: white;
-background-color: #0081C2;
+ul.navbar li:hover{
+	background-color:#50B948!important;
 }
 
 #carousel-slider{
 	width: 90%;
 position: relative;
-left: 40px;
-height: 505px;
+left: 56px;
+}
+#carousel-slider .carousel-indicators .active {
+width: 12px;
+height: 12px;
+margin: 0;
+background-color: #50B948;
 }
 
 #buttons-section{
@@ -128,6 +105,8 @@ width: 90.5%;
 
 /*****footer*****/
 #footer{
+	padding-top:10px;
+	padding-left:20px;
 	width: 98.7%;
 	height: 186px;
 	background: url(/img/ft.png);
