@@ -97,7 +97,7 @@
 		
 		// console.error
 		function errorFunction(msg){
-			console.error(msg);
+			//console.error(msg);
 		};
 	}
 	

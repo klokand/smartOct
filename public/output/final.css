@@ -80,6 +80,8 @@ div.banner ul.banner-txt > li.on{background:url(/img/icon_bullet.png) no-repeat 
 /*nav bar*/
 .navbar{
 	z-index:1;
+	margin-left: 10px;
+	width: 96%;
 }
 .dropdown-menu{
 	padding:0px !important;

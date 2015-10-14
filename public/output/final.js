@@ -110,7 +110,7 @@ d.trigger("activate.bs.scrollspy")},b.prototype.clear=function(){a(this.selector
 		
 		// console.error
 		function errorFunction(msg){
-			console.error(msg);
+			//console.error(msg);
 		};
 	}
 	
