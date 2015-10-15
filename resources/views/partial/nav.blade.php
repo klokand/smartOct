@@ -38,7 +38,7 @@
 					<li><a href="#none" class="mb00">Safe Guard Stroller</a></li>
 					<li><a href="#none" class="mb01">Easy Fold Stroller</a></li>
 					<li><a href="#none" class="mb02">Backpack Stroller</a></li>
-					<li><a href="#none" class="Title">Accessories</a></li>
+					<li class="catalog"><a href="#none" class="Title">Accessories</a></li>
 					<li><a href="#none" class="mb03">Comfort Pack</a></li>
 					<li><a href="#none" class="mb04">Footmuff</a></li>
 					<li><a href="#none" class="mb05">Caddy</a></li>

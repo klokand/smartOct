@@ -102,6 +102,15 @@ ul.navbar li:hover{
 	background-color:#50B948!important;
 }
 
+#banner1 ul.banner-txt li.catalog{
+	background: url(/img/icon_bullet-down.png) no-repeat 5px center !important;
+	font-weight:bold!important;
+	font-size:20px;
+}
+
+
+/*slider*/
+
 #carousel-slider{
 	width: 100%;
 position: relative;
