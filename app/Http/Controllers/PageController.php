@@ -21,5 +21,13 @@ class PageController extends Controller {
 	{
 		return view('index');
 	}
+	
+		public function contactUs()
+	{
+		return view('contactus');
+	}
+		public function watchUs(){
+		return view('watchUs');
+	}
 
 }

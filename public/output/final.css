@@ -64,7 +64,7 @@ div.banner ul.banner-txt > li.on{background:url(/img/icon_bullet.png) no-repeat 
 @media screen and (min-width:992px){
 	#rl-indent{
 		background: url(/img/shadow.png) repeat-y,url(/img/shadow.png) repeat-y right top;
-		min-height: 600px;
+		/*min-height: 600px;*/
 	}
 	#topSocials{
 		padding-top: 20px;
@@ -80,9 +80,21 @@ div.banner ul.banner-txt > li.on{background:url(/img/icon_bullet.png) no-repeat 
 /*nav bar*/
 .navbar{
 	z-index:1;
-	margin-left: 10px;
-	width: 96%;
+	margin-left: 12%;
+	width: 74%;
+	margin-bottom:0px;
 }
+.narbar-default{
+	border:0px;
+	width:76%;
+}
+.navbar .container-fluid{
+	padding:0px;
+}
+#bs-example-navbar-collapse-1{
+	padding:0px;
+}
+.nav li a{}
 .dropdown-menu{
 	padding:0px !important;
 }
@@ -91,9 +103,9 @@ ul.navbar li:hover{
 }
 
 #carousel-slider{
-	width: 90%;
+	width: 100%;
 position: relative;
-left: 56px;
+left: 13px;
 }
 #carousel-slider .carousel-indicators .active {
 width: 12px;
@@ -104,9 +116,9 @@ background-color: #50B948;
 
 #buttons-section{
 position: relative;
-width: 90%;
+width: 100%;
 top: 10px;
-left: 55px;
+left: 13px;
 padding: 15px;
 background: url(/img/promo-box.png) no-repeat;
 margin-top: 10px;
@@ -115,9 +127,9 @@ margin-bottom: 30px;
 #video-action{
 	height: 233px;
 background: url(/img/demo.png) repeat;
-margin-left: 38px;
+margin-left: -1px;
 padding-bottom: 0px;
-width: 90.5%;
+width: 100%;
 }
 #video-action h2{
 	font-size: 25px;
@@ -131,9 +143,9 @@ width: 90.5%;
 }
 #products{
 height: 233px;
-margin-left: 38px;
+margin-left: 13px;
 padding-bottom: 0px;
-width: 90.5%;
+width: 97%;
 }
 #products h2{
 	font-size: 25px;
@@ -209,7 +221,71 @@ top: 15px;
 #footer .footer6 ul li a{
 	color:#aeb1ae;
 }
-	
+#content{
+	min-height:500px;
+	clear:both;
+	margin-left: 25px;
+margin-right: 37px;
+margin-bottom: 15px;
+}
+#content .detail .title{
+	font-size:30px;
+	background:url(/img/heading-bg.png) no-repeat;
+}
+#content .detail .passage-wrap{
+	background: #ececec;
+clear: left;
+width: 100%;
+margin-left: 0px;
+min-height: 500px;
+}
+#content .detail .passage{
+	font-size:28px;
+	padding-top:20px;
+}
+#contactus .queryForm{
+	margin-top: 5px;
+padding-top: 18px;
+padding-bottom: 11px;
+background-color: gray;
+}
+
+#watchUs .video-item{
+	margin-top:10px;
+	margin-left:5px;
+	margin-right:5px;
+	padding-bottom:10px;
+	background-color:#50B948;
+	float:left;
+	display:block;
+	width:30%;
+}
+#watchUs .video-item img{
+	display:block;
+	width:100%;
+}
+#watchUs .video-item span.title{
+	font-size:20px;
+	display:block;
+	width:100%;
+	word-wrap:normal;
+	display:block;
+	height:70px;
+	background:white!important;
+}
+#watchUs #video {
+	padding-left: 43px;
+}
+#watchUs #video nav{
+	clear:both;
+}
+#watchUs #video ul.pagination{
+	width:30%;
+}
+#watchUs #video ul.pagination li a{
+	width:80px;
+	border-radius: 10px!important;
+	margin-right: 30px;
 }
 body{
 	font: 13px/1.231 "Trebuchet MS", Arial, Helvetica, sans-serif;

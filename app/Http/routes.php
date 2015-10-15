@@ -12,8 +12,13 @@
 */
 
 Route::get('/', 'PageController@index');
+Route::get('contact-us', 'PageController@contactUs');
+Route::get('watch-us', 'PageController@watchUs');
 
-Route::get('home', 'HomeController@index');
+Route::get('move/{name}','ProductController@moves');
+Route::get('relax/{name}','ProductController@relaxs');
+
+//Route::get('home', 'HomeController@index');
 
 Route::controllers([
 	'auth' => 'Auth\AuthController',

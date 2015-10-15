@@ -22,6 +22,7 @@ elixir(function(mix) {
 		'vendor/js/jquery.min.js',
 		'vendor/js/bootstrap.min.js',
 		'vendor/js/jquery.myelinSilder.js',
+		'vendor/js/jquery.tubber.min.js',
 		'js/app.js'
 	],'public/output/final.js','resources/assets');
 	mix.copy('resources/assets/img','public/img');

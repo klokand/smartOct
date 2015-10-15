@@ -29,5 +29,6 @@
 	</div>
 	<!-- Scripts -->
 	<script src="/output/final.js"></script>
+	<script src='https://www.google.com/recaptcha/api.js'></script>
 </body>
 </html>
