@@ -254,6 +254,51 @@ background-color: gray;
 	border-radius: 10px!important;
 	margin-right: 30px;
 }
+/*product detail view*/
+#productdetail .passage-wrap{
+	background-color:white!important;
+}
+#productdetail .passage-wrap .product-section{
+	background:url(/img/product-description.jpg) no-repeat;
+	height:350px;
+}
+
+#productdetail .passage-wrap .product-section .product-description .title1{
+	font-size: 30px;
+}
+#productdetail .passage-wrap .product-section .product-description .title2{
+	font-size: 33px;
+font-weight: bold;
+margin-top: -11px;
+background:url(/img/separator.gif) no-repeat left bottom;
+padding-bottom:10px;
+}
+#productdetail .passage-wrap .product-section .product-description .summary{
+	padding:10px 0px;
+	background:url(/img/separator.gif) no-repeat left bottom;
+	font-size:20px;
+}
+
+#productdetail .passage-wrap .product-section .product-description .list{
+	font-size: 18px;
+font-weight: bold;
+padding-left: 18px;
+line-height: 7px;
+}
+#productdetail .passage-wrap .product-section .product-description .list ul{
+list-style-type: inherit;
+line-height: 10px;
+}
+
+#productdetail .passage-wrap .product-section .product-description .list ul li{
+line-height: 20px;
+}
+#productdetail .passage-wrap .product-section .product-image img{
+	margin-top: 27px;
+margin-left: -35px;
+}
+
+
 body{
 	font: 13px/1.231 "Trebuchet MS", Arial, Helvetica, sans-serif;
 }

@@ -25,25 +25,25 @@
 			
 			<div id="banner1" class="banner">
 				<ul class="banner-img">
-					<li><a href="#none" id="mb00"><img src="../img/weather-shield.jpg" alt="" /></a></li>
-					<li><a href="#none" id="mb01"><img src="../img/easy-fold-stroller.jpg" alt="" /></a></li>
-					<li><a href="#none" id="mb02"><img src="../img/backpack-stroller.jpg" alt="" /></a></li>
-					<li><a href="#none" id="mb03"><img src="../img/comfort-pack.jpg" alt="" /></a></li>
-					<li><a href="#none" id="mb04"><img src="../img/footmuff.jpg" alt="" /></a></li>
-					<li><a href="#none" id="mb05"><img src="../img/caddy.jpg" alt="" /></a></li>
-					<li><a href="#none" id="mb06"><img src="../img/boot-cover.jpg" alt="" /></a></li>
-					<li><a href="#none" id="mb07"><img src="../img/weather-shield.jpg" alt="" /></a></li>
+					<li><a href="/move/test1" id="mb00"><img src="../img/weather-shield.jpg" alt="" /></a></li>
+					<li><a href="/move/test1" id="mb01"><img src="../img/easy-fold-stroller.jpg" alt="" /></a></li>
+					<li><a href="/move/test1" id="mb02"><img src="../img/backpack-stroller.jpg" alt="" /></a></li>
+					<li><a href="/move/test1" id="mb03"><img src="../img/comfort-pack.jpg" alt="" /></a></li>
+					<li><a href="/move/test1" id="mb04"><img src="../img/footmuff.jpg" alt="" /></a></li>
+					<li><a href="/move/test1" id="mb05"><img src="../img/caddy.jpg" alt="" /></a></li>
+					<li><a href="/move/test1" id="mb06"><img src="../img/boot-cover.jpg" alt="" /></a></li>
+					<li><a href="/move/test1" id="mb07"><img src="../img/weather-shield.jpg" alt="" /></a></li>
 				</ul>
 				<ul class="banner-txt">
-					<li><a href="#none" class="mb00">Safe Guard Stroller</a></li>
-					<li><a href="#none" class="mb01">Easy Fold Stroller</a></li>
-					<li><a href="#none" class="mb02">Backpack Stroller</a></li>
-					<li class="catalog"><a href="#none" class="Title">Accessories</a></li>
-					<li><a href="#none" class="mb03">Comfort Pack</a></li>
-					<li><a href="#none" class="mb04">Footmuff</a></li>
-					<li><a href="#none" class="mb05">Caddy</a></li>
-					<li><a href="#none" class="mb06">Boot Cover</a></li>
-					<li><a href="#none" class="mb07">Weather Shield</a></li>
+					<li><a href="/move/test1" class="mb00">Safe Guard Stroller</a></li>
+					<li><a href="/move/test1" class="mb01">Easy Fold Stroller</a></li>
+					<li><a href="/move/test1" class="mb02">Backpack Stroller</a></li>
+					<li class="catalog"><a href="#" class="Title">Accessories</a></li>
+					<li><a href="/move/test1" class="mb03">Comfort Pack</a></li>
+					<li><a href="/move/test1" class="mb04">Footmuff</a></li>
+					<li><a href="/move/test1" class="mb05">Caddy</a></li>
+					<li><a href="/move/test1" class="mb06">Boot Cover</a></li>
+					<li><a href="/move/test1" class="mb07">Weather Shield</a></li>
 				</ul>
 			</div>
 			
@@ -61,12 +61,12 @@
 			
 			<div  id="banner2" class="banner">
 				<ul class="banner-img">
-					<li><a href="#none" id="mb08"><img src="../img/3-in-1-travel-cot.jpg" alt="" /></a></li>
-					<li><a href="#none" id="mb09"><img src="../img/3-in-1-travel-bassinet.jpg" alt="" /></a></li>
+					<li><a href="/relax/test1" id="mb08"><img src="../img/3-in-1-travel-cot.jpg" alt="" /></a></li>
+					<li><a href="/relax/test1" id="mb09"><img src="../img/3-in-1-travel-bassinet.jpg" alt="" /></a></li>
 				</ul>
 				<ul class="banner-txt">
-					<li><a href="#none" class="mb08">Trave Cot</a></li>
-					<li><a href="#none" class="mb09">Trave Bassinet</a></li>
+					<li><a href="/relax/test1" class="mb08">Trave Cot</a></li>
+					<li><a href="/relax/test1" class="mb09">Trave Bassinet</a></li>
 				</ul>
 			</div>
           </ul>
