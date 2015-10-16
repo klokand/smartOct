@@ -424,6 +424,27 @@ background:url(/img/separator.gif) no-repeat left bottom;
 #productdetail .passage-wrap .product-section .product-rightside .product-tranbox .product-actionbuttons{
 	padding:4px;
 }
+
+#productdetail .passage-wrap .product-section .product-rightside .product-viewbuttons ul{
+
+}
+
+#productdetail .passage-wrap .product-section .product-rightside .product-viewbuttons ul li{
+	display:inline;
+}
+#productdetail .passage-wrap .product-section .product-rightside .product-viewbuttons ul li a{
+	color:black;
+	font-size:17px;
+	display:inline-block;
+	width:70px;
+	text-align:center;
+	margin-left: 15px;
+	padding-top: 44px;
+
+}
+#productdetail .passage-wrap .product-section .product-rightside .product-viewbuttons ul li a:hover{
+	text-decoration: underline;
+}
 /*
 #productdetail .passage-wrap .product-section .product-rightside .product-tranbox .product-colors .color-option .color-option-red{
 	padding:0px;

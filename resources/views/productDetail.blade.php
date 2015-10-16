@@ -45,7 +45,13 @@ folding system it is ready to g o in just secon ds!</div>
 
 			</div>
 		 </div>
-		 <div class="product-viewbuttons col-md-12"></div>
+		 <div class="product-viewbuttons nopadding col-md-12">
+			<ul>
+				<li><a src="#">360 View</a></li>
+				<li><a src="#">Zoom</a></li>
+				<li><a src="#">Fold</a></li>
+			</ul>
+		 </div>
 		</div>
 	 </div>
 	 <div class="nopadding product-images col-md-8">
