@@ -1,4 +1,4 @@
-<div id="footer">
+<div id="footer" class="hidden-print">
 <div class="col-md-2 footer1">
 <ul>
 	<h4>About Us</h4>

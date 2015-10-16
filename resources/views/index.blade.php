@@ -26,22 +26,19 @@
 <div id="products">
 <h2>Product Range</h2>
 	<div class="col-md-2">
-	<a href="#"><img class="img-responsive" src="/img/foot-muff.png"></a>
+	<a href="#"><img class="img-responsive" src="/img/Geometric Red-t.jpg"></a>
 	</div>
 	<div class="col-md-2">
-	<a href="#"><img class="img-responsive" src="/img/foot-muff.png"></a>
+	<a href="#"><img class="img-responsive" src="/img/Black-t.jpg"></a>
 	</div>
 	<div class="col-md-2">
-	<a href="#"><img class="img-responsive" src="/img/foot-muff.png"></a>
+	<a href="#"><img class="img-responsive" src="/img/award grey EFS-t.jpg"></a>
 	</div>
 	<div class="col-md-2">
-	<a href="#"><img class="img-responsive" src="/img/foot-muff.png"></a>
+	<a href="#"><img class="img-responsive" src="/img/award red EFS-t.jpg"></a>
 	</div>
 	<div class="col-md-2">
-	<a href="#"><img class="img-responsive" src="/img/foot-muff.png"></a>
-	</div>
-	<div class="col-md-2">
-	<a href="#"><img class="img-responsive" src="/img/foot-muff.png"></a>
+	<a href="#"><img class="img-responsive" src="/img/award travel cot-t.jpg"></a>
 	</div>
 </div>
 @endsection

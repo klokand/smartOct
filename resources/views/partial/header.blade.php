@@ -1,5 +1,5 @@
 <div id="topbar" >
-	<div id="topSocials" class="col-md-offset-4 col-md-8">
+	<div id="topSocials" class="col-md-offset-4 col-md-8 hidden-print">
 		<a href="http://youtube.com/QuickSmartGo" rel="nofollow" title="YouTube: QuickSmartGo" target="_blank"><img src="/img/youtube.png" alt="YouTube: QuickSmartMove"></a>
 		<a href="/contactus">Contact Us</a>
 	</div>

@@ -40,12 +40,12 @@ folding system it is ready to g o in just secon ds!</div>
 				</label>
 			</div>
 			</div>
-			<div class="product-actionbuttons col-md-12">
-			<a class="btn btn-success" href="#" role="button" href="#"><i class="fa fa-print fa-2x"></i></a>
+			<div class="product-actionbuttons hidden-print col-md-12">
+			<a class="btn btn-success print-button"  href="#" role="button" href="#"><i class="fa fa-print fa-2x"></i></a>
 
 			</div>
 		 </div>
-		 <div class="product-viewbuttons nopadding col-md-12">
+		 <div class="product-viewbuttons nopadding hidden-print col-md-12">
 			<ul>
 				<li><a src="#">360 View</a></li>
 				<li><a src="#">Zoom</a></li>
@@ -54,12 +54,12 @@ folding system it is ready to g o in just secon ds!</div>
 		 </div>
 		</div>
 	 </div>
-	 <div class="nopadding product-images col-md-8">
+	 <div class="nopadding product-images hidden-print col-md-8">
 		<div class="col-md-4"><a class='youtube' href="http://www.youtube.com/embed/LuV_nQnaDDk?rel=0&amp;wmode=transparent"><img class="img-responsive" src="/img/easy-fold-stroller-sizzle.png"></a></div>
 		<div class="col-md-4"><a class="group1" href="/img/easyfold1.jpg" title=""><img class="img-responsive" src="/img/QS0719.png"></a></div>
 		<div class="col-md-4"><a class="group1" href="/img/easy-fold-stroller.jpg" title=""><img class="img-responsive" src="/img/Quicksmart-2760.png"></a></div>
 	 </div>
-	 <div class="feedbacks col-md-4"><p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3></div>
+	 <div class="feedbacks hidden-print col-md-4"><p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3></div>
 	
 	<div>
 

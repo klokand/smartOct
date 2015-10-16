@@ -151,6 +151,9 @@ $('#video-container').tubber({
 	}
 });
 
+$(".print-button").click(function(){
+        window.print();
+    });
 
 });
 //# sourceMappingURL=final.js.map
