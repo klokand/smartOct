@@ -3,6 +3,9 @@ $(document).ready(function() {
 	$('#banner1').myelinSlider({});	
 	$('#banner2').myelinSlider({});
 	
+	$(".group1").colorbox({rel:'group1',maxWidth:800});
+	$(".iframe").colorbox({iframe:true, width:"80%", height:"80%"});
+	$(".youtube").colorbox({iframe:true, innerWidth:640, innerHeight:390});
 	
 	$.fn.tubber.defaults.apiKey = 'AIzaSyA9lThqAGto42AvFyIXNbDRsA70SS3q6pI';
 $('#video-container').tubber({
@@ -17,4 +20,6 @@ $('#video-container').tubber({
 		thumbnail: '<img src="{{image_medium}}">'
 	}
 });
+
+
 });

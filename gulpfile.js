@@ -16,6 +16,7 @@ elixir(function(mix) {
 		'vendor/css/bootstrap.min.css',
 		'vendor/css/jquery.myelinSilder.css',
 		'vendor/css/font-awesome.min.css',
+		'vendor/css/colorbox.css',
 		'css/app.css'
 	],'public/output/final.css','resources/assets');
 	mix.scripts([
@@ -23,9 +24,11 @@ elixir(function(mix) {
 		'vendor/js/bootstrap.min.js',
 		'vendor/js/jquery.myelinSilder.js',
 		'vendor/js/jquery.tubber.min.js',
+		'vendor/js/jquery.colorbox-min.js',
 		'js/app.js'
 	],'public/output/final.js','resources/assets');
 	mix.copy('resources/assets/img','public/img');
+	mix.copy('resources/assets/video','public/video');
 	mix.copy('resources/assets/vendor/img','public/output/img');
 	mix.copy('resources/assets/fonts','public/fonts');;
 });

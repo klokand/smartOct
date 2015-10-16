@@ -25,6 +25,12 @@
 		this is the buttons
 		</div>
 	 </div>
+	 <div class="product-images col-md-8">
+		<div class="col-md-3"><a class="iframe" href="/video/Easy Fold Stroller MASTER CONSUMER.mp4" title=""><img class="img-responsive" src="/img/easy-fold-stroller-sizzle.png"></a></div>
+		<div class="col-md-3"><a class="group1" href="/img/easyfold1.jpg" title=""><img class="img-responsive" src="/img/easyfold1.jpg"></a></div>
+		<div class="col-md-3"><a class="group1" href="/img/easy-fold-stroller.jpg" title=""><img class="img-responsive" src="/img/easy-fold-stroller.jpg"></a></div>
+	 </div>
+	 <div class="feedbacks col-md-4">feedback</div>
 	</div>
 </div>
 @endsection

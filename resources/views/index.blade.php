@@ -11,13 +11,13 @@
 <div id="video-action">
 	<h2>View the QuickSmart products in action</h2>
 	<div class="col-md-3">
-	<a href="#"><img src="/img/easyfold-stroller-video.png"></a><p>Easy Fold Stroller</p>
+	<a class='iframe' href="/video/Easy Fold Stroller MASTER CONSUMER.mp4"><img src="/img/easyfold-stroller-video.png"></a><p>Easy Fold Stroller</p>
 	</div>
 	<div class="col-md-3">
-	<a href="#"><img src="/img/backpack-stroller-video.png"></a><p>Backpack Stroller</p>
+	<a class='youtube' href="http://www.youtube.com/embed/2-1U7ZbvFZc?rel=0&amp;wmode=transparent"><img src="/img/backpack-stroller-video.png"></a><p>Backpack Stroller</p>
 	</div>
 	<div class="col-md-3">
-	<a href="#"><img src="/img/travel-cot-video.png"></a><p>3 in 1 Travel Cot</p>
+	<a class='youtube' href="http://www.youtube.com/embed/Z7KZcI-okPQ?rel=0&amp;wmode=transparent"><img src="/img/travel-cot-video.png"></a><p>3 in 1 Travel Cot</p>
 	</div>
 	<div class="col-md-3">
 	<a href="#"><img src="/img/easyfold-stroller-video.png"></a><p>Safe Guard Stroller</p>
