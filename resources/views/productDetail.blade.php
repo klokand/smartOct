@@ -26,7 +26,7 @@
 		</div>
 	 </div>
 	 <div class="product-images col-md-8">
-		<div class="col-md-3"><a class="iframe" href="/video/Easy Fold Stroller MASTER CONSUMER.mp4" title=""><img class="img-responsive" src="/img/easy-fold-stroller-sizzle.png"></a></div>
+		<div class="col-md-3"><a class='youtube' href="http://www.youtube.com/embed/LuV_nQnaDDk?rel=0&amp;wmode=transparent"><img class="img-responsive" src="/img/easy-fold-stroller-sizzle.png"></a></div>
 		<div class="col-md-3"><a class="group1" href="/img/easyfold1.jpg" title=""><img class="img-responsive" src="/img/easyfold1.jpg"></a></div>
 		<div class="col-md-3"><a class="group1" href="/img/easy-fold-stroller.jpg" title=""><img class="img-responsive" src="/img/easy-fold-stroller.jpg"></a></div>
 	 </div>
