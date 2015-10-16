@@ -24,15 +24,25 @@
 		background: url(/img/shadow.png) repeat-y,url(/img/shadow.png) repeat-y right top;
 		/*min-height: 600px;*/
 	}
-	#topSocials{
-		padding-top: 20px;
+
+	#logo1{
+		height:211px;
 	}
-	#logo2{
-		position: relative;
-		top: 38px;
+	#logo1 a img{
+		height: 212px;
+padding-top: 7px;
 	}
 	#logo{
 		 clear: both;
+	}
+	#topbar2{
+		padding-top:120px;
+	}
+	#topSocials{
+		left:68px;
+	}
+	#topSocials img{
+		display:inline;
 	}
 	
 /*nav bar*/
@@ -86,32 +96,25 @@ margin: 0;
 background-color: #50B948;
 }
 
-#buttons-section{
-position: relative;
-width: 100%;
-top: 10px;
-left: 13px;
-padding: 15px;
-background: url(/img/promo-box.png) no-repeat;
-margin-top: 10px;
-margin-bottom: 30px;
+#post-section{
+	padding: 15px;
 }
 #video-action{
-	height: 233px;
+	height: 225px;
 background: url(/img/demo.png) repeat;
-margin-left: -1px;
-padding-bottom: 0px;
-width: 100%;
 }
 #video-action h2{
 	font-size: 25px;
 	font-weight: bold;
 	padding-top: 16px;
 	padding-left: 16px;
-	padding-bottom: 34px;
+	padding-bottom: 25px;
 }
 #video-action p{
 	text-align:center;
+}
+#video-action a img{
+	padding-left:30px;
 }
 #products{
 height: 233px;
@@ -129,6 +132,34 @@ width: 97%;
 
 #products div{
 	padding-bottom: 20px;
+}
+#products .item{
+	padding:0px;
+	margin-right:10px;
+}
+
+#links-section{
+margin-top: 23px;
+margin-left: 9px;
+background: url(/img/923x185-bottom-of-home-page.jpg) no-repeat;
+height: 170px;
+background-size: 99%;
+clear:both;
+}
+#links-section ul{
+	height:170px;
+}
+#links-section ul li{
+display: inline-block;
+margin-top: 75px;
+margin-left: -9px;
+}
+#links-section ul li a{
+padding-top: 70px;
+padding-bottom: 75px;
+padding-left: 87px;
+padding-right: 84px;
+margin-left: 43px;
 }
 
 /*****footer*****/
