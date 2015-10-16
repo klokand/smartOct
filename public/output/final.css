@@ -383,8 +383,8 @@ background-color: gray;
 	background-color:white!important;
 }
 #productdetail .passage-wrap .product-section{
-	background:url(/img/product-description.jpg) no-repeat;
-	height:350px;
+	background:url(/img/product-description.jpg) repeat;
+	height:400px;
 }
 
 #productdetail .passage-wrap .product-section .product-description .title1{
