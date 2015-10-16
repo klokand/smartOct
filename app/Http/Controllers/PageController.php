@@ -24,10 +24,13 @@ class PageController extends Controller {
 	
 		public function contactUs()
 	{
-		return view('contactus');
+		return view('contactUs');
 	}
 		public function watchUs(){
 		return view('watchUs');
+	}
+		public function aboutUs(){
+		return view('aboutUs');
 	}
 
 }

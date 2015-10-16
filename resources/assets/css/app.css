@@ -445,6 +445,20 @@ border-radius: 4px 4px 0 0;
 background-color: gray;
 font-size:20px;
 }
+#aboutUs .passage p{
+	font-size:16px;
+}
+#aboutUs .passage p a{
+	font-size:18px;
+	font-weight: bold;
+}
+#aboutUs .passage p a:hover{
+	text-decoration:underline;
+	font-size:18px;
+	color:blue;
+}
+
+
 
 body{
 	font: 13px/1.231 "Trebuchet MS", Arial, Helvetica, sans-serif;
