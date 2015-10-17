@@ -20,7 +20,12 @@
 <body>
 	<div class="container">
 		<div id="rl-indent" class="col-md-offset-1 col-md-10">
-	@include('partial.header')
+		<div id="header-slider-wrap">
+			@include('partial.header')
+			@if(Request::is('/'))
+					@include('partial.slider')
+			@endif
+		</div>
 	<div id="content" class="row">
 	@yield('content')
 	</div>

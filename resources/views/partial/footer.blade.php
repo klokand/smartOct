@@ -1,4 +1,14 @@
+
 <div id="footer" class="hidden-print">
+<div id="links-section" class="row">
+<ul>
+	<li><a href="/about-us"></a></li>
+	<li><a href="/contact-us"></a></li>
+	<li><a target="_blank" href="https://www.youtube.com/user/QuickSmartGo"></a></li>
+	<li><a href="#"></a></li>
+</ul>
+</div>
+<!--
 <div class="col-md-2 footer1">
 <ul>
 	<h4>About Us</h4>
@@ -48,9 +58,10 @@
 <h4 class="col-md-4">Download QuickSmart Brochure</h4>
 <a href="http://www.quicksmartgo.com/index.php?option=com_rubberdoc&amp;view=doc&amp;id=1&amp;format=raw" class="col-md-8"><img src="/img/quicksmart-brochure.jpg" alt=""></a>
 </div>
+-->
 <div class="col-md-12 footer6">
 	<ul>
-		<li>© Funtastic Limited</li>
+		<li>{{Carbon\Carbon::today()->format('Y')}}© Dalegroup International</li>
 		<li><a href="/sitemap">Sitemap</a></li>
 		<li><a href="/privacy-policy">Privacy Policy</a></li>
 	</ul>

@@ -1,6 +1,6 @@
 @extends('app-front')
 @section('content')
-@include('partial.slider')
+
 <div id="post-section" class="row">
 <img src="/img/923x185 home page.jpg" class="img-responsive">
 </div>
@@ -13,7 +13,7 @@
 	<a class='youtube' href="http://www.youtube.com/embed/2-1U7ZbvFZc?rel=0&amp;wmode=transparent"><img src="/img/backpack-stroller-video.png"></a><p>Backpack Stroller</p>
 	</div>
 	<div class="col-md-4">
-	<a class='youtube' href="http://www.youtube.com/embed/Z7KZcI-okPQ?rel=0&amp;wmode=transparent"><img src="/img/travel-cot-video.png"></a><p>3 in 1 Travel Cot</p>
+	<a class='youtube' href="http://www.youtube.com/embed/KQVGBXBhnuI?rel=0&amp;wmode=transparent"><img src="/img/travel-cot-video.png"></a><p>3 in 1 Travel Cot</p>
 	</div>
 </div>
 <div id="products">
@@ -25,7 +25,7 @@
 	<a href="#"><img class="img-responsive" src="/img/award red EFS-t.jpg"></a>
 	</div>
 	<div class="item col-md-2">
-	<a href="#"><img class="img-responsive" src="/img/award travel cot-t.jpg"></a>
+	<a href="#"><img class="img-responsive positionHelp" src="/img/award travel cot-t.jpg"></a>
 	</div>
 	<div class="item col-md-2">
 	<a href="#"><img class="img-responsive" src="/img/Geometric Red-t.jpg"></a>
@@ -33,13 +33,5 @@
 	<div class="item col-md-2">
 	<a href="#"><img class="img-responsive" src="/img/Black-t.jpg"></a>
 	</div>
-</div>
-<div id="links-section" class="row">
-<ul>
-	<li><a href="/about-us"></a></li>
-	<li><a href="/contact-us"></a></li>
-	<li><a target="_blank" href="https://www.youtube.com/user/QuickSmartGo"></a></li>
-	<li><a href="#"></a></li>
-</ul>
 </div>
 @endsection

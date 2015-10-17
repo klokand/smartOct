@@ -112,6 +112,10 @@ div.banner ul.banner-txt > li.on{background:url(/img/icon_bullet.png) no-repeat 
 		background: url(/img/shadow.png) repeat-y,url(/img/shadow.png) repeat-y right top;
 		/*min-height: 600px;*/
 	}
+	#header-slider-wrap{
+		border: 5px solid grey;
+		margin-right: 10px;
+	}
 
 	#logo1{
 		height:211px;
@@ -173,9 +177,9 @@ ul.navbar li:hover{
 /*slider*/
 
 #carousel-slider{
-	width: 100%;
+	width: 98%;
 position: relative;
-left: 13px;
+left: 20px;
 }
 #carousel-slider .carousel-indicators .active {
 width: 12px;
@@ -225,14 +229,32 @@ width: 97%;
 	padding:0px;
 	margin-right:10px;
 }
+#products .item a img.positionHelp{
+	margin-top: 22px;
+	height: 152px;
+}
+
+/*****footer*****/
+#footer{
+	padding-right: 30px;
+}
+
+#footer .footer6 ul li{
+	padding-right:10px;
+	display: inline;
+}
+#footer .footer6{
+	padding-bottom:10px;
+	padding-top:10px;
+}
 
 #links-section{
 margin-top: 23px;
-margin-left: 9px;
+margin-left: 11px;
 background: url(/img/923x185-bottom-of-home-page.jpg) no-repeat;
-height: 170px;
+height: 176px;
 background-size: 99%;
-clear:both;
+clear: both;
 }
 #links-section ul{
 	height:170px;
@@ -245,12 +267,11 @@ margin-left: -9px;
 #links-section ul li a{
 padding-top: 70px;
 padding-bottom: 75px;
-padding-left: 87px;
-padding-right: 84px;
+padding-left: 92px;
+padding-right: 88px;
 margin-left: 43px;
 }
-
-/*****footer*****/
+/*
 #footer{
 	padding-top:10px;
 	padding-left:20px;
@@ -312,6 +333,7 @@ top: 15px;
 #footer .footer6 ul li a{
 	color:#aeb1ae;
 }
+*/
 #content{
 	min-height:500px;
 	clear:both;
