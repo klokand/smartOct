@@ -61,9 +61,9 @@
 		<a class="group1" href="/img/Easy Fold Stroller in Bag on Model.jpg" title=""><img class="p-img img-thumbnail" src="/img/Easy Fold Stroller in Bag on Model.jpg"></a>
 		<a class="group1" href="/img/Stroller in Trunk.jpg" title=""><img class="p-img img-thumbnail" src="/img/Stroller in Trunk.jpg"></a>
 	
-		<a class='youtube' href="http://www.youtube.com/embed/LuV_nQnaDDk?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/easy-fold-stroller-sizzle.png"></a>
-		<a class='youtube' href="http://www.youtube.com/embed/m9Z9UMPyBUg?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/efs-v2.jpg"></a>
-		<a class='youtube' href="http://www.youtube.com/embed/vKLGXZeJ578?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/efs-v3.jpg"></a>
+		<a class='youtube' href="http://www.youtube.com/embed/MR46daGjiSE?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/easy-fold-stroller-sizzle.png"></a>
+		<a class='youtube' href="http://www.youtube.com/embed/ph3KYjio7kw?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/efs-v2.jpg"></a>
+		<a class='youtube' href="http://www.youtube.com/embed/2-1U7ZbvFZc?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/efs-v3.jpg"></a>
 	 </div>
 	 <div class="feedbacks hidden-print col-md-4"><p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3></div>
 	

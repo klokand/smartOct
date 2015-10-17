@@ -19,7 +19,7 @@
 			</div>
 		</div>
 		<div class="product-image col-md-3">
-		<img src="/img/quicksmart-2797_comforter_lr.png" class="img-responsive">
+		<img src="/img/Black-t.jpg" class="img-responsive">
 		</div>
 		<div class="product-rightside col-md-4">
 		 <div class="product-tranbox col-md-12">
@@ -54,9 +54,16 @@
 		</div>
 	 </div>
 	 <div class="nopadding product-images hidden-print col-md-8">
-		<div class="col-md-4"><a class='youtube' href="http://www.youtube.com/embed/LuV_nQnaDDk?rel=0&amp;wmode=transparent"><img class="img-responsive" src="/img/easy-fold-stroller-sizzle.png"></a></div>
-		<div class="col-md-4"><a class="group1" href="/img/easyfold1.jpg" title=""><img class="img-responsive" src="/img/QS0719.png"></a></div>
-		<div class="col-md-4"><a class="group1" href="/img/easy-fold-stroller.jpg" title=""><img class="img-responsive" src="/img/Quicksmart-2760.png"></a></div>
+		<a class="group1" href="/img/Model Walking with BP Stroller.jpg" title=""><img class="p-img img-thumbnail" src="/img/Model Walking with BP Stroller.jpg"></a>
+		<a class="group1" href="/img/Backpack Stroller.jpg" title=""><img class="p-img img-thumbnail" src="/img/Backpack Stroller.jpg"></a>
+		<a class="group1" href="/img/Backpack Stroller Geometric Red and Grey.jpg" title=""><img class="p-img img-thumbnail" src="/img/Backpack Stroller Geometric Red and Grey.jpg"></a>
+		<a class="group1" href="/img/backpack stroller in cabin.jpg" title=""><img class="p-img img-thumbnail" src="/img/backpack stroller in cabin.jpg"></a>
+		<a class="group1" href="/img/backpack_07[1].jpg" title=""><img class="p-img img-thumbnail" src="/img/backpack_07[1].jpg"></a>
+	
+		<a class='youtube' href="http://www.youtube.com/embed/LuV_nQnaDDk?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/eb-v1.jpg"></a>
+		<a class='youtube' href="http://www.youtube.com/embed/m9Z9UMPyBUg?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/eb-v2.jpg"></a>
+		<a class='youtube' href="http://www.youtube.com/embed/vKLGXZeJ578?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/eb-v3.jpg"></a>
+		<a class='youtube' href="http://www.youtube.com/embed/vKLGXZeJ578?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/eb-v4.jpg"></a>
 	 </div>
 	 <div class="feedbacks hidden-print col-md-4"><p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3></div>
 	

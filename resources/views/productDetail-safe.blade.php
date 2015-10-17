@@ -19,7 +19,7 @@
 			</div>
 		</div>
 		<div class="product-image col-md-3">
-		<img src="/img/quicksmart-2797_comforter_lr.png" class="img-responsive">
+		<img src="/img/extra large fold out hood.jpg" class="img-responsive">
 		</div>
 		<div class="product-rightside col-md-4">
 		 <div class="product-tranbox col-md-12">
@@ -48,9 +48,10 @@
 		</div>
 	 </div>
 	 <div class="nopadding product-images hidden-print col-md-8">
-		<div class="col-md-4"><a class='youtube' href="http://www.youtube.com/embed/LuV_nQnaDDk?rel=0&amp;wmode=transparent"><img class="img-responsive" src="/img/easy-fold-stroller-sizzle.png"></a></div>
-		<div class="col-md-4"><a class="group1" href="/img/easyfold1.jpg" title=""><img class="img-responsive" src="/img/QS0719.png"></a></div>
-		<div class="col-md-4"><a class="group1" href="/img/easy-fold-stroller.jpg" title=""><img class="img-responsive" src="/img/Quicksmart-2760.png"></a></div>
+		<a class="group1" href="/img/folded safeguard_edited.jpg" title=""><img class="p-img img-thumbnail" src="/img/folded safeguard_edited.jpg"></a>
+		<a class="group1" href="/img/Never flat large wheels.jpg" title=""><img class="p-img img-thumbnail" src="/img/Never flat large wheels.jpg"></a>
+		<a class="group1" href="/img/patented IRP technology.jpg" title=""><img class="p-img img-thumbnail" src="/img/patented IRP technology.jpg"></a>
+		<a class="group1" href="/img/roll up peek-a-boo windows.jpg" title=""><img class="p-img img-thumbnail" src="/img/roll up peek-a-boo windows.jpg"></a>
 	 </div>
 	 <div class="feedbacks hidden-print col-md-4"><p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3></div>
 	

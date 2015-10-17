@@ -38,12 +38,15 @@
 					<li><a href="/move/Safeguard Newborn Stroller" class="mb00">Safe Guard Stroller</a></li>
 					<li><a href="/move/Easyfold Stroller" class="mb01">Easy Fold Stroller</a></li>
 					<li><a href="/move/Backpack Stroller" class="mb02">Backpack Stroller</a></li>
+					
+					<!-- Hidden accessaries part
 					<li class="catalog"><a href="#" class="Title">Accessories</a></li>
 					<li><a href="/move/test1" class="mb03">Comfort Pack</a></li>
 					<li><a href="/move/test1" class="mb04">Footmuff</a></li>
 					<li><a href="/move/test1" class="mb05">Caddy</a></li>
 					<li><a href="/move/test1" class="mb06">Boot Cover</a></li>
 					<li><a href="/move/test1" class="mb07">Weather Shield</a></li>
+					-->
 				</ul>
 			</div>
 			
@@ -66,7 +69,9 @@
 				</ul>
 				<ul class="banner-txt">
 					<li><a href="/relax/Easyfold Travel Cot" class="mb08">Trave Cot</a></li>
+					<!-- Hidden accessaries part
 					<li><a href="/relax/test1" class="mb09">Trave Bassinet</a></li>
+					-->
 				</ul>
 			</div>
           </ul>
