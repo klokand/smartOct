@@ -25,7 +25,7 @@
 			
 			<div id="banner1" class="banner">
 				<ul class="banner-img">
-					<li><a href="/move/Safeguard Newborn Stroller" id="mb00"><img src="../img/weather-shield.jpg" alt="" /></a></li>
+					<li><a href="/move/Safeguard Newborn Stroller" id="mb00"><img src="../img/SafeGuard-S-nav.jpg" alt="" /></a></li>
 					<li><a href="/move/Easyfold Stroller" id="mb01"><img src="../img/easy-fold-stroller.jpg" alt="" /></a></li>
 					<li><a href="/move/Backpack Stroller" id="mb02"><img src="../img/backpack-stroller.jpg" alt="" /></a></li>
 					<li><a href="/move/test1" id="mb03"><img src="../img/comfort-pack.jpg" alt="" /></a></li>
