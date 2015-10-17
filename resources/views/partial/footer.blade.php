@@ -5,7 +5,7 @@
 	<li><a href="/about-us"></a></li>
 	<li><a href="/contact-us"></a></li>
 	<li><a target="_blank" href="https://www.youtube.com/user/QuickSmartGo"></a></li>
-	<li><a href="#"></a></li>
+	<li><a href="/download/Quicksmart by Playette 2016 online.pdf" download></a></li>
 </ul>
 </div>
 <!--

@@ -30,5 +30,6 @@ elixir(function(mix) {
 	mix.copy('resources/assets/img','public/img');
 	mix.copy('resources/assets/video','public/video');
 	mix.copy('resources/assets/vendor/img','public/output/img');
-	mix.copy('resources/assets/fonts','public/fonts');;
+	mix.copy('resources/assets/fonts','public/fonts');
+	mix.copy('resources/assets/download','public/download');
 });
