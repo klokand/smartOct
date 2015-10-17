@@ -56,7 +56,7 @@
 	 <div class="nopadding product-images hidden-print col-md-8">
 		<a class="group1" href="/img/award grey EFS_edited.jpg" title=""><img class="p-img img-thumbnail" src="/img/award grey EFS_edited.jpg"></a>
 		<a class="group1" href="/img/Child in Easy fold 2.jpg" title=""><img class="p-img img-thumbnail" src="/img/Child in Easy fold 2.jpg"></a>
-		<a class="group1" href="/img/Copy of Complete.JPG" title=""><img class="p-img img-thumbnail" src="/img/Copy of Complete.JPG"></a>
+		<a class="group1" href="/img/Copy of Complete.jpg" title=""><img class="p-img img-thumbnail" src="/img/Copy of Complete.jpg"></a>
 		<a class="group1" href="/img/Copy of Easy Fold Unfolded next to Folded.jpg" title=""><img class="p-img img-thumbnail" src="/img/Copy of Easy Fold Unfolded next to Folded.jpg"></a>
 		<a class="group1" href="/img/Easy Fold Stroller in Bag on Model.jpg" title=""><img class="p-img img-thumbnail" src="/img/Easy Fold Stroller in Bag on Model.jpg"></a>
 		<a class="group1" href="/img/Stroller in Trunk.jpg" title=""><img class="p-img img-thumbnail" src="/img/Stroller in Trunk.jpg"></a>
