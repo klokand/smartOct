@@ -142,6 +142,12 @@ padding-top: 7px;
 .nopadding{
 	padding:0px !important;
 }
+.fold-images{
+	display:none;
+}
+.hide-fold{
+	width: 69%;
+}
 
 .navbar{
 	z-index:1;

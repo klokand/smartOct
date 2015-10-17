@@ -38,11 +38,11 @@
 
 			</div>
 		 </div>
-		 <div class="product-viewbuttons nopadding hidden-print col-md-12">
+		 <div class="product-viewbuttons nopadding hide-fold col-md-12">
 			<ul>
-				<li><a src="#">360 View</a></li>
-				<li><a src="#">Zoom</a></li>
-				<li><a src="#">Fold</a></li>
+				<li><a class="allView">360 View</a></li>
+				<li><a class="zoom-image" href="/img/award travel cot.jpg">Zoom</a></li>
+				<!--<li><a src="#">Fold</a></li>-->
 			</ul>
 		 </div>
 		</div>

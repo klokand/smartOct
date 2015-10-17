@@ -133,7 +133,9 @@ $(document).ready(function() {
 	$('#banner1').myelinSlider({});	
 	$('#banner2').myelinSlider({});
 	
-	$(".group1").colorbox({rel:'group1',maxWidth:800,height:800,});
+	$(".group1").colorbox({rel:'group1',maxWidth:800,height:700,});
+	$(".zoom-image").colorbox({rel:'zoom-image',});
+	$(".fold-image").colorbox({rel:'fold-image',maxWidth:800,height:700,});
 	$(".iframe").colorbox({iframe:true, width:"80%", height:"80%"});
 	$(".youtube").colorbox({iframe:true, innerWidth:640, innerHeight:390});
 	
@@ -154,6 +156,9 @@ $('#video-container').tubber({
 $(".print-button").click(function(){
         window.print();
     });
+$("a.allView").click(function(){
+	$(".group1").trigger("click");
+});
 
 });
 //# sourceMappingURL=final.js.map

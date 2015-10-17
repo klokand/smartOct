@@ -46,9 +46,18 @@
 		 </div>
 		 <div class="product-viewbuttons nopadding hidden-print col-md-12">
 			<ul>
-				<li><a src="#">360 View</a></li>
-				<li><a src="#">Zoom</a></li>
-				<li><a src="#">Fold</a></li>
+				<li><a class="allView">360 View</a></li>
+				<li><a class="zoom-image" href="/img/Geometric Red.jpg">Zoom</a></li>
+				<li>
+				<a class="fold-image" href="/img/efs-f1.jpg">Fold</a>
+				<div class="fold-images">
+					<a class="fold-image" href="/img/efs-f2.jpg" title=""></a>
+					<a class="fold-image" href="/img/efs-f3.jpg" title=""></a>
+					<a class="fold-image" href="/img/efs-f4.jpg" title=""></a>
+					<a class="fold-image" href="/img/efs-f5.jpg" title=""></a>
+					<a class="fold-image" href="/img/efs-f6.jpg" title=""></a>
+				</div>
+				</li>
 			</ul>
 		 </div>
 		</div>
