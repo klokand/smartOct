@@ -133,7 +133,7 @@ $(document).ready(function() {
 	$('#banner1').myelinSlider({});	
 	$('#banner2').myelinSlider({});
 	
-	$(".group1").colorbox({rel:'group1',maxWidth:800});
+	$(".group1").colorbox({rel:'group1',maxWidth:800,height:800,});
 	$(".iframe").colorbox({iframe:true, width:"80%", height:"80%"});
 	$(".youtube").colorbox({iframe:true, innerWidth:640, innerHeight:390});
 	

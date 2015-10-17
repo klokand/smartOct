@@ -356,6 +356,7 @@ line-height: 20px;
 	margin-top: 27px;
 margin-left: -35px;
 }
+
 #productdetail .passage-wrap .product-section .product-rightside{
 	min-height: 346px;
 	color: white;
@@ -450,6 +451,28 @@ font-family: cursive;
 font-size: 24px;
 font-weight: bold;
 }
+
+#productdetail .passage-wrap .product-images a img.p-img{
+	max-height:90px;
+	width:auto;
+}
+#productdetail .passage-wrap .productInfo{
+	clear:both;
+	padding-top:25px;
+}
+
+#productdetail .passage-wrap .productInfo .tab-content{
+	min-height:250px;
+	border-bottom:#ddd 1px solid;
+	padding: 10px 20px;
+	font-size: 16px;
+}
+
+#productdetail .passage-wrap .productInfo .tab-content ul{
+	list-style-type: square;
+}
+
+
 
 #productdetail .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
 color: white;

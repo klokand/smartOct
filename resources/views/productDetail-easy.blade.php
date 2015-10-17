@@ -19,7 +19,7 @@
 			</div>
 		</div>
 		<div class="product-image col-md-3">
-		<img src="/img/quicksmart-2797_comforter_lr.png" class="img-responsive">
+		<img src="/img/award red EFS-t.jpg" class="img-responsive">
 		</div>
 		<div class="product-rightside col-md-4">
 		 <div class="product-tranbox col-md-12">
@@ -54,14 +54,20 @@
 		</div>
 	 </div>
 	 <div class="nopadding product-images hidden-print col-md-8">
-		<div class="col-md-4"><a class='youtube' href="http://www.youtube.com/embed/LuV_nQnaDDk?rel=0&amp;wmode=transparent"><img class="img-responsive" src="/img/easy-fold-stroller-sizzle.png"></a></div>
-		<div class="col-md-4"><a class="group1" href="/img/easyfold1.jpg" title=""><img class="img-responsive" src="/img/QS0719.png"></a></div>
-		<div class="col-md-4"><a class="group1" href="/img/easy-fold-stroller.jpg" title=""><img class="img-responsive" src="/img/Quicksmart-2760.png"></a></div>
+		<a class="group1" href="/img/award grey EFS_edited.jpg" title=""><img class="p-img img-thumbnail" src="/img/award grey EFS_edited.jpg"></a>
+		<a class="group1" href="/img/Child in Easy fold 2.jpg" title=""><img class="p-img img-thumbnail" src="/img/Child in Easy fold 2.jpg"></a>
+		<a class="group1" href="/img/Copy of Complete.JPG" title=""><img class="p-img img-thumbnail" src="/img/Copy of Complete.JPG"></a>
+		<a class="group1" href="/img/Copy of Easy Fold Unfolded next to Folded.jpg" title=""><img class="p-img img-thumbnail" src="/img/Copy of Easy Fold Unfolded next to Folded.jpg"></a>
+		<a class="group1" href="/img/Easy Fold Stroller in Bag on Model.jpg" title=""><img class="p-img img-thumbnail" src="/img/Easy Fold Stroller in Bag on Model.jpg"></a>
+		<a class="group1" href="/img/Stroller in Trunk.jpg" title=""><img class="p-img img-thumbnail" src="/img/Stroller in Trunk.jpg"></a>
+	
+		<a class='youtube' href="http://www.youtube.com/embed/LuV_nQnaDDk?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/easy-fold-stroller-sizzle.png"></a>
+		<a class='youtube' href="http://www.youtube.com/embed/m9Z9UMPyBUg?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/efs-v2.jpg"></a>
+		<a class='youtube' href="http://www.youtube.com/embed/vKLGXZeJ578?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/efs-v3.jpg"></a>
 	 </div>
 	 <div class="feedbacks hidden-print col-md-4"><p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3></div>
 	
-	<div>
-
+<div class="productInfo">
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
     <li role="presentation" class="active"><a href="#features" aria-controls="features" role="tab" data-toggle="tab">Features</a></li>
@@ -70,8 +76,35 @@
 
   <!-- Tab panes -->
   <div class="tab-content">
-    <div role="tabpanel" class="tab-pane active" id="features">Features</div>
-    <div role="tabpanel" class="tab-pane" id="specifications">Specifications</div>
+    <div role="tabpanel" class="tab-pane active" id="features">
+	<img class="img-responsive" src="/img/easyfold stroller features page 923x373.jpg">
+	</div>
+    <div role="tabpanel" class="tab-pane" id="specifications">
+	<ul><li>
+	Folds into carry bag for ease of travel - easily fits into car boot and backseat wells
+	</li><li>
+
+Extremely compact, convenient & lightweight (only 7.5kg/16.5lbs)</li><li>
+
+No assembly required, just remove from box, unfold and you are ready to travel</li><li>
+
+Adjustable, 2 position seat recline
+</li><li>
+Four wheel design, five point safety harness anddu al rear brakes
+</li><li>
+Fully retractable canopy with viewing window for line of sight between parent & baby
+</li><li>
+Featuring smart accessories convenient carry bag
+</li><li>
+Suitable for 6 months + up to 15kg/33lbs
+</li><li>
+Safe, smart, stylish
+</li><li>
+Available in a range of designer colours, for the sty le conscious family
+</li><li>
+Award winning design! Winner of the prestigious Australian Design Mark
+</li></ul>
+	</div>
   </div>
 
 	</div>

@@ -1,3 +1,24 @@
+	@if(Request::is('move/*')||Request::is('relax/*'))
+<div id="products">
+<h2>Related Products</h2>
+	<div class="item col-md-offset-1 col-md-2">
+	<a href="#"><img class="img-responsive" src="/img/award grey EFS-t.jpg"></a>
+	</div>
+	<div class="item col-md-2">
+	<a href="#"><img class="img-responsive" src="/img/award red EFS-t.jpg"></a>
+	</div>
+	<div class="item col-md-2">
+	<a href="#"><img class="img-responsive positionHelp" src="/img/award travel cot-t.jpg"></a>
+	</div>
+	<div class="item col-md-2">
+	<a href="#"><img class="img-responsive" src="/img/Geometric Red-t.jpg"></a>
+	</div>
+	<div class="item col-md-2">
+	<a href="#"><img class="img-responsive" src="/img/Black-t.jpg"></a>
+	</div>
+</div>
+
+@endif
 
 <div id="footer" class="hidden-print">
 <div id="links-section" class="row">

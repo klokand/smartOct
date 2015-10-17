@@ -54,7 +54,7 @@
 	 </div>
 	 <div class="feedbacks hidden-print col-md-4"><p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3></div>
 	
-	<div>
+<div class="productInfo">
 
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
@@ -64,8 +64,22 @@
 
   <!-- Tab panes -->
   <div class="tab-content">
-    <div role="tabpanel" class="tab-pane active" id="features">Features</div>
-    <div role="tabpanel" class="tab-pane" id="specifications">Specifications</div>
+    <div role="tabpanel" class="tab-pane active" id="features">
+	<img class="img-responsive" src="/img/easyfold travel cot features page 923x373.jpg">
+	</div>
+    <div role="tabpanel" class="tab-pane" id="specifications">
+		<ul><li>The QuickSmartTM Travel Cot weighs less than 7kg !
+		</li><li>Easy to fold
+	</li><li>Safe and strong aluminum frame with fashionable colours
+</li><li>leek new generation design
+</li><li>Revolutionary ultra light base
+</li><li>Quick, easy and compact folding
+</li><li>Flat pack shape fits under most beds and in car boots easily
+</li><li>Lightweight & equipped with zip up travel bag
+</li><li>Easy clean wipe down fabric
+</li><li>Suitable from birth to approximately 14kg/30.9lbs</li>
+		</ul>
+	</div>
   </div>
 
 	</div>

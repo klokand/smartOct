@@ -54,7 +54,7 @@
 	 </div>
 	 <div class="feedbacks hidden-print col-md-4"><p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3></div>
 	
-	<div>
+<div class="productInfo">
 
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
@@ -64,8 +64,28 @@
 
   <!-- Tab panes -->
   <div class="tab-content">
-    <div role="tabpanel" class="tab-pane active" id="features">Features</div>
-    <div role="tabpanel" class="tab-pane" id="specifications">Specifications</div>
+    <div role="tabpanel" class="tab-pane active" id="features">
+		<img class="img-responsive" src="/img/safeguard stroller features page 923x373.jpg">
+	</div>
+    <div role="tabpanel" class="tab-pane" id="specifications">
+	<ul><li>
+		Maximum safety with patented IRP technology </li><li>
+Head support plus micro suede newborn inserts</li><li>
+Easy ride front suspension</li><li>
+The NEWEST stroller with patented* Integrated Rollaway Prevention (IRP)</li><li>
+Newborn to toddler</li><li>
+Padded 5 point safety harness</li><li>
+Fully adjustable leg support</li><li>
+Ultra compact fold</li><li>
+Any position structured backrest</li><li>
+Inbuilt Stroller Organiser</li><li>
+Extra large fold out hood</li><li>
+Roll up peek-a-boo windows</li><li>
+Lots of built in storage pockets</li><li>
+Never flat, large wheels</li><li>
+Safe, smart & stylish</li>
+	</ul>
+	</div>
   </div>
 
 	</div>

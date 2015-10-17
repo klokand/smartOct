@@ -60,7 +60,7 @@
 	 </div>
 	 <div class="feedbacks hidden-print col-md-4"><p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3></div>
 	
-	<div>
+<div class="productInfo">
 
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
@@ -70,8 +70,29 @@
 
   <!-- Tab panes -->
   <div class="tab-content">
-    <div role="tabpanel" class="tab-pane active" id="features">Features</div>
-    <div role="tabpanel" class="tab-pane" id="specifications">Specifications</div>
+    <div role="tabpanel" class="tab-pane active" id="features">
+		<img class="img-responsive" src="/img/backpack stroller features page 923x373.jpg">
+	</div>
+    <div role="tabpanel" class="tab-pane" id="specifications">
+	<ul>
+			<li>Weighs less than 5kg!</li><li>
+Suitable from 6 months</li><li>
+Folds in 4 easy steps into a backpack for ease of storage and transportation</li><li>
+No assembly required</li><li>
+5 point harness and canopy</li><li>
+Padded seat and foot rest</li><li>
+Stylish wheels</li><li>
+Shopping basket</li><li>
+Carry bag with shoulder pads included</li><li>
+Dual Wheels, with a swivel front wheel</li><li>
+One brake lever – operating both wheels</li><li>
+Elasticized back pocket</li><li>
+Padded backpack with mesh side storage pockets for bottles, nappies, keys etc</li><li>
+Suitable for children from 6 months up to 20kg/44lbs</li><li>
+New Quicksmart Buckle– the first buckle designed to comply with Australian Standard AS/NZS 2088: 2009</li><li>
+Ideal for airline travel</li>
+		</ul>
+	</div>
   </div>
 
 	</div>
