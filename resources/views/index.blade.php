@@ -18,20 +18,23 @@
 </div>
 <div id="products">
 <h2>Product Range</h2>
-	<div class="item col-md-offset-1 col-md-2">
-	<a href="#"><img class="img-responsive" src="/img/award grey EFS-t.jpg"></a>
+	<div class="item col-md-2">
+	<a href="/move/Safeguard Newborn Stroller"><img class="img-responsive" src="/img/safeGuardProductlists.jpg"></a>
 	</div>
 	<div class="item col-md-2">
-	<a href="#"><img class="img-responsive" src="/img/award red EFS-t.jpg"></a>
+	<a href="/move/Easyfold Stroller"><img class="img-responsive" src="/img/award grey EFS-t.jpg"></a>
 	</div>
 	<div class="item col-md-2">
-	<a href="#"><img class="img-responsive positionHelp" src="/img/award travel cot-t.jpg"></a>
+	<a href="/move/Easyfold Stroller"><img class="img-responsive" src="/img/award red EFS-t.jpg"></a>
 	</div>
 	<div class="item col-md-2">
-	<a href="#"><img class="img-responsive" src="/img/Geometric Red-t.jpg"></a>
+	<a href="/relax/Easyfold Travel Cot"><img class="img-responsive positionHelp" src="/img/award travel cot-t.jpg"></a>
 	</div>
 	<div class="item col-md-2">
-	<a href="#"><img class="img-responsive" src="/img/Black-t.jpg"></a>
+	<a href="/move/Backpack Stroller"><img class="img-responsive" src="/img/Geometric Red-t.jpg"></a>
+	</div>
+	<div class="item col-md-2">
+	<a href="/move/Backpack Stroller"><img class="img-responsive" src="/img/Black-t.jpg"></a>
 	</div>
 </div>
 @endsection

@@ -68,7 +68,7 @@
 					<li><a href="/relax/test1" id="mb09"><img src="../img/3-in-1-travel-bassinet.jpg" alt="" /></a></li>
 				</ul>
 				<ul class="banner-txt">
-					<li><a href="/relax/Easyfold Travel Cot" class="mb08">Trave Cot</a></li>
+					<li><a href="/relax/Easyfold Travel Cot" class="mb08">Travel Cot</a></li>
 					<!-- Hidden accessaries part
 					<li><a href="/relax/test1" class="mb09">Trave Bassinet</a></li>
 					-->
