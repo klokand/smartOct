@@ -21,6 +21,8 @@ Route::get('enquiry', function(){
 	return "sent out";
 });
 
+Route::post('/search',['as'=>'search','uses'=>'PageController@search']);
+
 Route::get('move/{name}','ProductController@moves');
 Route::get('relax/{name}','ProductController@relaxs');
 

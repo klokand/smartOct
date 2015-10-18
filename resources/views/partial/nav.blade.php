@@ -87,9 +87,10 @@
 					><a href="/contact-us">Contact Us</a></li>
         </li>
       </ul>
-      <form class="navbar-form navbar-left" role="search">
+      <form name="search" method="POST" action="{{URL::route('search')}}" class="navbar-form navbar-left" role="search">
+	  <input type="hidden" name="_token" value="<?php echo csrf_token(); ?>">
         <div class="form-group">
-          <input type="text" class="form-control" placeholder="Search">
+          <input type="text" name="searchWord" class="form-control" placeholder="Search">
         </div>
         <button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
       </form>
