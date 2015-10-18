@@ -27,7 +27,7 @@
 				<ul class="banner-img">
 					<li><a href="/move/Safeguard Newborn Stroller" id="mb00"><img src="../img/SafeGuard-S-nav.jpg" alt="" /></a></li>
 					<li><a href="/move/Easyfold Stroller" id="mb01"><img src="../img/easy-fold-stroller.jpg" alt="" /></a></li>
-					<li><a href="/move/Backpack Stroller" id="mb02"><img src="../img/backpack-stroller.jpg" alt="" /></a></li>
+					<li><a href="/move/Backpack Stroller" id="mb02"><img src="../img/Backpack Stroller Geometric Red and Grey-t.jpg" alt="" /></a></li>
 					<li><a href="/move/test1" id="mb03"><img src="../img/comfort-pack.jpg" alt="" /></a></li>
 					<li><a href="/move/test1" id="mb04"><img src="../img/footmuff.jpg" alt="" /></a></li>
 					<li><a href="/move/test1" id="mb05"><img src="../img/caddy.jpg" alt="" /></a></li>

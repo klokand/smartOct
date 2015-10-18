@@ -7,7 +7,7 @@
 		<div class="product-description col-md-5">
 			<div class="title1">Backpack</div>
 			<div class="title2">Stroller</div>
-			<div class="summary">The QuickSmart Backpack Stroller is loight and compact enough to fold neatly into its own comfortable backpack. In fact most airlines find it very cabin-friendly. How travel savvy is that?</div>
+			<div class="summary">The QuickSmart Backpack Stroller is light and compact enough to fold neatly into its own comfortable backpack. In fact most airlines find it very cabin-friendly. How travel savvy is that?</div>
 			<div class="list">
 				<ul>
 					<li>Weighs less than 5Kg</li>
@@ -19,7 +19,7 @@
 			</div>
 		</div>
 		<div class="product-image col-md-3">
-		<img src="/img/Black-t.jpg" class="img-responsive">
+		<img src="/img/Backpack Stroller Black with Lime Accent.jpg" class="img-responsive">
 		</div>
 		<div class="product-rightside col-md-4">
 		 <div class="product-tranbox col-md-12">
@@ -46,8 +46,8 @@
 		 </div>
 		 <div class="product-viewbuttons nopadding hide-fold col-md-12">
 			<ul>
-				<li><a a class="allView">360 View</a></li>
-				<li><a class="zoom-image" href="/img/Black .jpg">Zoom</a></li>
+				<li><a a class="allView">View All</a></li>
+				<li><a class="zoom-image" href="/img/Backpack Stroller Black with Lime Accent.jpg">Zoom</a></li>
 				<!--<li><a src="#">Fold</a></li>-->
 			</ul>
 		 </div>
@@ -60,12 +60,14 @@
 		<a class="group1" href="/img/backpack stroller in cabin.jpg" title=""><img class="p-img img-thumbnail" src="/img/backpack stroller in cabin.jpg"></a>
 		<a class="group1" href="/img/backpack_07[1].jpg" title=""><img class="p-img img-thumbnail" src="/img/backpack_07[1].jpg"></a>
 	
-		<a class='youtube' href="http://www.youtube.com/embed/LuV_nQnaDDk?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/eb-v1.jpg"></a>
-		<a class='youtube' href="http://www.youtube.com/embed/m9Z9UMPyBUg?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/eb-v2.jpg"></a>
-		<a class='youtube' href="http://www.youtube.com/embed/vKLGXZeJ578?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/eb-v3.jpg"></a>
-		<a class='youtube' href="http://www.youtube.com/embed/vKLGXZeJ578?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/eb-v4.jpg"></a>
+		<a class='youtube' href="http://www.youtube.com/embed/j7jAHA97C8k?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/eb-v1.jpg"></a>
+		<a class='youtube' href="http://www.youtube.com/embed/ph3KYjio7kw?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/eb-v2.jpg"></a>
+		<a class='youtube' href="http://www.youtube.com/embed/2-1U7ZbvFZc?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/eb-v3.jpg"></a>
+		<a class='youtube' href="http://www.youtube.com/embed/0xNHBUkfdC0?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/eb-v4.jpg"></a>
 	 </div>
-	 <div class="feedbacks hidden-print col-md-4"><p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3></div>
+	 <div class="hidden-print col-md-4"><img class="img-responsive col-md-offset-2 col-md-8" src="/img/Silver-Back-Pack-Stroller-AWard.jpg">
+	 <!--<p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3>-->
+	 </div>
 	
 <div class="productInfo">
 
@@ -97,7 +99,7 @@ Elasticized back pocket</li><li>
 Padded backpack with mesh side storage pockets for bottles, nappies, keys etc</li><li>
 Suitable for children from 6 months up to 20kg/44lbs</li><li>
 New Quicksmart Buckle– the first buckle designed to comply with Australian Standard AS/NZS 2088: 2009</li><li>
-Ideal for airline travel</li>
+Ideal for airline travel</li><li>Compliant with AS/NZS 2088: 2009</li>
 		</ul>
 	</div>
   </div>

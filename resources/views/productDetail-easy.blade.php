@@ -10,7 +10,7 @@
 			<div class="summary">The QuickSmart Easyfold Stroller is unlike any other four wheel stroller. With the revolutionary QuickSmart folding system it is ready to go in just seconds!</div>
 			<div class="list">
 				<ul>
-					<li>Efortless fold and storage</li>
+					<li>Effortless fold and storage</li>
 					<li>Weighs 7kg</li>
 					<li>Award winning design</li>
 					<li>Suitable from 6 months+ up to 15kg/33lbs</li>
@@ -19,7 +19,7 @@
 			</div>
 		</div>
 		<div class="product-image col-md-3">
-		<img src="/img/award red EFS-t.jpg" class="img-responsive">
+		<img src="/img/Easy-Fold-Stroller-Red.jpg" class="img-responsive">
 		</div>
 		<div class="product-rightside col-md-4">
 		 <div class="product-tranbox col-md-12">
@@ -46,8 +46,8 @@
 		 </div>
 		 <div class="product-viewbuttons nopadding hidden-print col-md-12">
 			<ul>
-				<li><a class="allView">360 View</a></li>
-				<li><a class="zoom-image" href="/img/Geometric Red.jpg">Zoom</a></li>
+				<li><a class="allView">View All</a></li>
+				<li><a class="zoom-image" href="/img/Easy-Fold-Stroller-Red.jpg">Zoom</a></li>
 				<li>
 				<a class="fold-image" href="/img/efs-f1.jpg">Fold</a>
 				<div class="fold-images">
@@ -70,9 +70,9 @@
 		<a class="group1" href="/img/Easy Fold Stroller in Bag on Model.jpg" title=""><img class="p-img img-thumbnail" src="/img/Easy Fold Stroller in Bag on Model.jpg"></a>
 		<a class="group1" href="/img/Stroller in Trunk.jpg" title=""><img class="p-img img-thumbnail" src="/img/Stroller in Trunk.jpg"></a>
 	
-		<a class='youtube' href="http://www.youtube.com/embed/MR46daGjiSE?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/easy-fold-stroller-sizzle.png"></a>
-		<a class='youtube' href="http://www.youtube.com/embed/ph3KYjio7kw?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/efs-v2.jpg"></a>
-		<a class='youtube' href="http://www.youtube.com/embed/2-1U7ZbvFZc?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/efs-v3.jpg"></a>
+		<a class='youtube' href="http://www.youtube.com/embed/LuV_nQnaDDk?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/easy-fold-stroller-sizzle.png"></a>
+		<a class='youtube' href="http://www.youtube.com/embed/m9Z9UMPyBUg?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/efs-v2.jpg"></a>
+		<a class='youtube' href="http://www.youtube.com/embed/vKLGXZeJ578?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/efs-v3.jpg"></a>
 	 </div>
 	 <div class="feedbacks hidden-print col-md-4"><p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3></div>
 	
@@ -99,7 +99,7 @@ No assembly required, just remove from box, unfold and you are ready to travel</
 
 Adjustable, 2 position seat recline
 </li><li>
-Four wheel design, five point safety harness anddu al rear brakes
+Four wheel design, five point safety harness and dual rear brakes
 </li><li>
 Fully retractable canopy with viewing window for line of sight between parent & baby
 </li><li>
@@ -109,10 +109,12 @@ Suitable for 6 months + up to 15kg/33lbs
 </li><li>
 Safe, smart, stylish
 </li><li>
-Available in a range of designer colours, for the sty le conscious family
+Available in a range of designer colours, for the style conscious family
 </li><li>
 Award winning design! Winner of the prestigious Australian Design Mark
-</li></ul>
+</li><li>Extra tall parent push bar Bonus bag makes storage, carrying and traveling a breeze</li>
+<li>Compliant with AS/NZS 2088: 2009 prams & stroller Safety requirement</li>
+</ul>
 	</div>
   </div>
 

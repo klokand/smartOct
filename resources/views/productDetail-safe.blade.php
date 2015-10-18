@@ -7,7 +7,7 @@
 		<div class="product-description col-md-5">
 			<div class="title1">Safeguard</div>
 			<div class="title2">Newborn Stroller</div>
-			<div class="summary">The QuickSmart Newborn Safeguard Stroller features patented* Intergrated Rollaway Prevention. Suitable from newborn to 24kgs, this fully featured premium stroller makes movement a breeze with its award winning design and Patented compance footprint.</div>
+			<div class="summary">The QuickSmart Newborn Safeguard Stroller features patented* Intergrated Rollaway Prevention. Suitable from newborn to 24kgs, this fully featured premium stroller makes movement a breeze with its award winning design and Patented compact footprint.</div>
 			<div class="list">
 				<ul>
 					<li>Head Support plus micro suede newborn inserts</li>
@@ -40,7 +40,7 @@
 		 </div>
 		 <div class="product-viewbuttons nopadding hide-fold col-md-12">
 			<ul>
-				<li><a class="allView" >360 View</a></li>
+				<li><a class="allView" >View All</a></li>
 				<li><a class="zoom-image" href="/img/_pram.jpg">Zoom</a></li>
 				<!--<li><a src="#">Fold</a></li>-->
 			</ul>
@@ -53,7 +53,8 @@
 		<a class="group1" href="/img/patented IRP technology.jpg" title=""><img class="p-img img-thumbnail" src="/img/patented IRP technology.jpg"></a>
 		<a class="group1" href="/img/roll up peek-a-boo windows.jpg" title=""><img class="p-img img-thumbnail" src="/img/roll up peek-a-boo windows.jpg"></a>
 	 </div>
-	 <div class="feedbacks hidden-print col-md-4"><p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3></div>
+	 <div class="feedbacks hidden-print col-md-4"><p>The NEWEST stroller with patented* Integrated Rollaway Prevention (IRP). But if you need artwork to do this I’ll 
+do it and send to you.</p><h3></h3></div>
 	
 <div class="productInfo">
 
@@ -73,7 +74,6 @@
 		Maximum safety with patented IRP technology </li><li>
 Head support plus micro suede newborn inserts</li><li>
 Easy ride front suspension</li><li>
-The NEWEST stroller with patented* Integrated Rollaway Prevention (IRP)</li><li>
 Newborn to toddler</li><li>
 Padded 5 point safety harness</li><li>
 Fully adjustable leg support</li><li>

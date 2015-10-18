@@ -16,6 +16,10 @@ Route::get('contact-us', 'PageController@contactUs');
 Route::get('watch-us', 'PageController@watchUs');
 Route::get('about-us', 'PageController@aboutUs');
 Route::get('privacy-policy', 'PageController@privacyPolicy');
+Route::get('search', 'PageController@search');
+Route::get('enquiry', function(){
+	return "sent out";
+});
 
 Route::get('move/{name}','ProductController@moves');
 Route::get('relax/{name}','ProductController@relaxs');

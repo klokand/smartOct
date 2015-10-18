@@ -35,5 +35,9 @@ class PageController extends Controller {
 		public function privacyPolicy(){
 		return view('privacyPolicy');
 		}
+		
+		public function search(){
+		return view('searchWithResult');
+		}
 
 }

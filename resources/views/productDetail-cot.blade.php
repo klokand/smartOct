@@ -19,7 +19,7 @@
 			</div>
 		</div>
 		<div class="product-image col-md-3">
-		<img src="/img/award travel cot-t.jpg" class="img-responsive">
+		<img src="/img/travelCot.png" class="img-responsive">
 		</div>
 		<div class="product-rightside col-md-4">
 		 <div class="product-tranbox col-md-12">
@@ -40,8 +40,8 @@
 		 </div>
 		 <div class="product-viewbuttons nopadding hide-fold col-md-12">
 			<ul>
-				<li><a class="allView">360 View</a></li>
-				<li><a class="zoom-image" href="/img/award travel cot.jpg">Zoom</a></li>
+				<li><a class="allView">View All</a></li>
+				<li><a class="zoom-image" href="/img/travelCot.png">Zoom</a></li>
 				<!--<li><a src="#">Fold</a></li>-->
 			</ul>
 		 </div>
@@ -55,7 +55,9 @@
 		<a class='youtube' href="http://www.youtube.com/embed/lI14jRqv24k?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/tc-v1.jpg"></a>
 		<a class='youtube' href="http://www.youtube.com/embed/KQVGBXBhnuI?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/tc-v2.jpg"></a>
 	 </div>
-	 <div class="feedbacks hidden-print col-md-4"><p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3></div>
+	 <div class="hidden-print col-md-4"><img class="img-responsive col-md-offset-2 col-md-8" src="/img/Travel-Cot-AWard.jpg"></div>
+	 <!--
+	 <div class="feedbacks hidden-print col-md-4"><p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3></div>-->
 	
 <div class="productInfo">
 
@@ -74,7 +76,7 @@
 		<ul><li>The QuickSmartTM Travel Cot weighs less than 7kg !
 		</li><li>Easy to fold
 	</li><li>Safe and strong aluminum frame with fashionable colours
-</li><li>leek new generation design
+</li><li>Sleek new generation design
 </li><li>Revolutionary ultra light base
 </li><li>Quick, easy and compact folding
 </li><li>Flat pack shape fits under most beds and in car boots easily

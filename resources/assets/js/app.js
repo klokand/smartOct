@@ -30,4 +30,45 @@ $("a.allView").click(function(){
 	$(".group1").trigger("click");
 });
 
+$('#queryForm').submit(function(event) {
+	
+	/* stop form from submitting normally */
+  	event.preventDefault();
+	var fname = $('input[name=firstName]').val();
+	var lname = $('input[name=lastName]').val();
+	var email = $('input[name=email]').val();
+	var country = $('#country option:selected').val();
+	var telephone = $('input[name=telephone]').val();
+	var type = $('#type option:selected').val();
+	var message = $('textarea[name=message]').val();
+	var token =$('input[name=_token]').val();
+		var url ="enquiry";
+		var $post ={};
+		$post.fname = fname;
+		$post.lname = lname;
+		$post.email = email;
+		$post.country = country;
+		$post.telephone = telephone;
+		$post.type = type;
+		$post.message = message;
+		$post._token = token;
+	  	//ajax post the form
+		$.ajax({
+			type:"POST",
+			url: url,
+			data: $post,
+			cache:false,
+			success:function(data){
+				console.log(data);
+				var result = $.trim(data);
+				if(result =="sent out"){
+					$("input").val("");
+					$("textarea").val("");
+					$.prompt("Message has been sent out");
+				}
+			}
+		});
+		return false;
+	});
+
 });
