@@ -19,7 +19,8 @@
 			</div>
 		</div>
 		<div class="product-image col-md-3">
-		<img src="/img/Backpack Stroller Black with Lime Accent.jpg" class="img-responsive">
+		<img src="/img/Backpack Stroller Geometric Red and Grey.jpg" class="img-responsive color-image1">
+		<img src="/img/Backpack Stroller Black with Lime Accent.jpg" class="img-responsive color-image2">
 		</div>
 		<div class="product-rightside col-md-4">
 		 <div class="product-tranbox col-md-12">
@@ -28,13 +29,13 @@
 			<div class="product-colors col-md-12">
 			<div class="radio">
 				<label>
-					<input type="radio" name="ColorRadios1" id="ColorRadios1" value="QBPS10202">
+					<input type="radio" name="ColorRadios1" id="color-button1" value="QBPS10202" checked>
 					<img src="/img/Geometric-red-grey21.png">
 				</label>
 			</div>
 			<div class="radio">
 				<label>
-					<input type="radio" name="ColorRadios1" id="ColorRadios1" value="QBPS10200">
+					<input type="radio" name="ColorRadios1" id="color-button2" value="QBPS10200">
 					<img src="/img/Black with Lime Accent.png">
 				</label>
 			</div>

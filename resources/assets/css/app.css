@@ -363,6 +363,11 @@ line-height: 20px;
 margin-left: -20px;
 }
 
+#productdetail .passage-wrap .product-section .product-image img.color-image2{
+	display:none;
+}
+
+
 #productdetail .passage-wrap .product-section .product-rightside{
 	min-height: 346px;
 	color: white;

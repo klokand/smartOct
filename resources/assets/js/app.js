@@ -9,6 +9,21 @@ $(document).ready(function() {
 	$(".iframe").colorbox({iframe:true, width:"80%", height:"80%"});
 	$(".youtube").colorbox({iframe:true, innerWidth:640, innerHeight:390});
 	
+	$("#color-button2").click(function(){
+		if(!$(".color-image2").is(":visible")){
+			$(".color-image1").hide();
+			$(".color-image2").show();
+		}
+    });
+
+    $("#color-button1").click(function(){
+		if(!$(".color-image1").is(":visible")){
+			$(".color-image2").hide();
+			$(".color-image1").show();
+		}
+    });
+	
+	
 	$.fn.tubber.defaults.apiKey = 'AIzaSyA9lThqAGto42AvFyIXNbDRsA70SS3q6pI';
 $('#video-container').tubber({
 	username: 'QuickSmartGo',

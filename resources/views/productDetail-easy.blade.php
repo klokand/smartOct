@@ -19,7 +19,8 @@
 			</div>
 		</div>
 		<div class="product-image col-md-3">
-		<img src="/img/Easy-Fold-Stroller-Red.jpg" class="img-responsive">
+		<img src="/img/Easy-Fold-Stroller-Red.jpg" class="img-responsive color-image1">
+		<img src="/img/GEOMETRIC GREY - BLACK RF B09721_Sml.jpg" class="img-responsive color-image2">
 		</div>
 		<div class="product-rightside col-md-4">
 		 <div class="product-tranbox col-md-12">
@@ -28,13 +29,13 @@
 			<div class="product-colors col-md-12">
 			<div class="radio">
 				<label>
-					<input type="radio" name="ColorRadios1" id="ColorRadios1" value="QEFS09722">
+					<input type="radio" name="ColorRadios1" id="color-button1" value="QEFS09722" checked>
 					<img src="/img/Geometric-red-grey21.png">
 				</label>
 			</div>
 			<div class="radio">
 				<label>
-					<input type="radio" name="ColorRadios1" id="ColorRadios1" value="QEFS09721">
+					<input type="radio" name="ColorRadios1" id="color-button2" value="QEFS09721">
 					<img src="/img/Geometric-black-grey11.png">
 				</label>
 			</div>

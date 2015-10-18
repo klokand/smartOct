@@ -28,7 +28,7 @@
 			<div class="product-colors col-md-12">
 			<div class="radio">
 				<label>
-					<input type="radio" name="ColorRadios1" id="ColorRadios1" value="QEFT10198">
+					<input type="radio" name="ColorRadios1" id="ColorRadios1" value="QEFT10198" checked>
 					<img src="/img/Geometric-black-grey11.png">
 				</label>
 			</div>
