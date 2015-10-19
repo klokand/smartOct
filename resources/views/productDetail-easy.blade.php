@@ -19,7 +19,7 @@
 			</div>
 		</div>
 		<div class="product-image col-md-3">
-		<img src="/img/Easy-Fold-Stroller-Red.jpg" class="img-responsive color-image1">
+		<img src="/img/Easy-Fold-Stroller-Red-img.jpg" class="img-responsive color-image1">
 		<img src="/img/GEOMETRIC GREY - BLACK RF B09721_Sml.jpg" class="img-responsive color-image2">
 		</div>
 		<div class="product-rightside col-md-4">
