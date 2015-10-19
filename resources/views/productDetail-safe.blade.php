@@ -53,8 +53,7 @@
 		<a class="group1" href="/img/patented IRP technology.jpg" title=""><img class="p-img img-thumbnail" src="/img/patented IRP technology.jpg"></a>
 		<a class="group1" href="/img/roll up peek-a-boo windows.jpg" title=""><img class="p-img img-thumbnail" src="/img/roll up peek-a-boo windows.jpg"></a>
 	 </div>
-	 <div class="feedbacks hidden-print col-md-4"><p>The NEWEST stroller with patented* Integrated Rollaway Prevention (IRP). But if you need artwork to do this I’ll 
-do it and send to you.</p><h3></h3></div>
+	 <div class="feedbacks hidden-print col-md-4"><p>The NEWEST stroller with patented* Integrated Rollaway Prevention (IRP).</p><h3></h3></div>
 	
 <div class="productInfo">
 
