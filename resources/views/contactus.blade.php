@@ -6,8 +6,6 @@
 		<div class="passage col-md-8">
 			<p>Need to know more about QuickSmart?<p>
 			<p>Need to contact us? We'd love to hear from you. Phone us during regular business hours or send us an email any time and we'll get back to you Quick Smart.</p>
-			<p><strong>Phone:</strong> +61 3 9553 0024</p>
-			<p><strong>Fax:</strong> +61 3 9553 0036</p>
 			<p><strong>Email:</strong>orders@dalegroup.com.au</p>
 			
 		</div>
