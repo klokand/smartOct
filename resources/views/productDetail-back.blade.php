@@ -45,7 +45,7 @@
 
 			</div>
 		 </div>
-		 <div class="product-viewbuttons nopadding hide-fold col-md-12">
+		 <div class="product-viewbuttons nopadding hide-fold hidden-print col-md-12">
 			<ul>
 				<li><a a class="allView">View All</a></li>
 				<li><a class="zoom-image" href="/img/Backpack Stroller Black with Lime Accent.jpg">Zoom</a></li>

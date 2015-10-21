@@ -28,25 +28,23 @@
 					<li><a href="/move/Safeguard Newborn Stroller" id="mb00"><img src="../img/SafeGuard-S-nav.jpg" alt="" /></a></li>
 					<li><a href="/move/Easyfold Stroller" id="mb01"><img src="../img/easy-fold-stroller.jpg" alt="" /></a></li>
 					<li><a href="/move/Backpack Stroller" id="mb02"><img src="../img/Backpack Stroller Geometric Red and Grey-t.jpg" alt="" /></a></li>
-					<li><a href="/move/test1" id="mb03"><img src="../img/comfort-pack.jpg" alt="" /></a></li>
-					<li><a href="/move/test1" id="mb04"><img src="../img/footmuff.jpg" alt="" /></a></li>
-					<li><a href="/move/test1" id="mb05"><img src="../img/caddy.jpg" alt="" /></a></li>
-					<li><a href="/move/test1" id="mb06"><img src="../img/boot-cover.jpg" alt="" /></a></li>
-					<li><a href="/move/test1" id="mb07"><img src="../img/weather-shield.jpg" alt="" /></a></li>
+					<li><a href="/move/Accessory-Comfort Pack" id="mb03"><img src="../img/comfort-pack.jpg" alt="" /></a></li>
+					<li><a href="/move/Accessory-Footmuff" id="mb04"><img src="../img/footmuff.jpg" alt="" /></a></li>
+					<li><a href="/move/Accessory-Caddy" id="mb05"><img src="../img/caddy.jpg" alt="" /></a></li>
+					<li><a href="/move/Accessory-Boot-Cover" id="mb06"><img src="../img/boot-cover.jpg" alt="" /></a></li>
+					<li><a href="/move/Accessory-Weather-Shield" id="mb07"><img src="../img/weather-shield.jpg" alt="" /></a></li>
 				</ul>
 				<ul class="banner-txt">
 					<li><a href="/move/Safeguard Newborn Stroller" class="mb00">Safe Guard Stroller</a></li>
 					<li><a href="/move/Easyfold Stroller" class="mb01">Easy Fold Stroller</a></li>
 					<li><a href="/move/Backpack Stroller" class="mb02">Backpack Stroller</a></li>
 					
-					<!-- Hidden accessaries part
 					<li class="catalog"><a href="#" class="Title">Accessories</a></li>
-					<li><a href="/move/test1" class="mb03">Comfort Pack</a></li>
-					<li><a href="/move/test1" class="mb04">Footmuff</a></li>
-					<li><a href="/move/test1" class="mb05">Caddy</a></li>
-					<li><a href="/move/test1" class="mb06">Boot Cover</a></li>
-					<li><a href="/move/test1" class="mb07">Weather Shield</a></li>
-					-->
+					<li><a href="/move/Accessory-Comfort Pack" class="mb03">Comfort Pack</a></li>
+					<li><a href="/move/Accessory-Footmuff" class="mb04">Footmuff</a></li>
+					<li><a href="/move/Accessory-Caddy" class="mb05">Caddy</a></li>
+					<li><a href="/move/Accessory-Boot-Cover" class="mb06">Boot Cover</a></li>
+					<li><a href="/move/Accessory-Weather-Shield" class="mb07">Weather Shield</a></li>
 				</ul>
 			</div>
 			

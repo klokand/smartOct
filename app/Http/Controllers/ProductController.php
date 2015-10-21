@@ -14,6 +14,16 @@ class ProductController extends Controller {
 			return view('productDetail-back')->with('name',$name);
 		}else if($name == "Easyfold Stroller"){
 			return view('productDetail-easy')->with('name',$name);
+		}else if($name == "Accessory-Comfort Pack"){
+			return view('productDetail-easyPack')->with('name',$name);
+		}else if($name == "Accessory-Footmuff"){
+			return view('productDetail-footmuff')->with('name',$name);
+		}else if($name == "Accessory-Caddy"){
+			return view('productDetail-caddy')->with('name',$name);
+		}else if($name == "Accessory-Boot-Cover"){
+			return view('productDetail-boot-cover')->with('name',$name);
+		}else if($name == "Accessory-Weather-Shield"){
+			return view('productDetail-weather-shield')->with('name',$name);
 		}else{
 			abort(404);
 		}
