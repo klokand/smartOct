@@ -14,15 +14,17 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li><a href="/">Home <span class="sr-only">(current)</span></a></li>
-         <li class="dropdown 
+         <li
 	@if(Request::is('move/*'))
-					active"
+					class="dropdown active"
+          @else
+          class="dropdown"
 					@endif
- ">
+ >
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Move <span class="caret"></span></a>
           <ul class="dropdown-menu">
             		<div id="section">
-			
+
 			<div id="banner1" class="banner">
 				<ul class="banner-img">
 					<li><a href="/move/Safeguard Newborn Stroller" id="mb00"><img src="../img/SafeGuard-S-nav.jpg" alt="" /></a></li>
@@ -38,7 +40,7 @@
 					<li><a href="/move/Safeguard Newborn Stroller" class="mb00">Safe Guard Stroller</a></li>
 					<li><a href="/move/Easyfold Stroller" class="mb01">Easy Fold Stroller</a></li>
 					<li><a href="/move/Backpack Stroller" class="mb02">Backpack Stroller</a></li>
-					
+
 					<li class="catalog"><a href="#" class="Title">Accessories</a></li>
 					<li><a href="/move/Accessory-Comfort Pack" class="mb03">Comfort Pack</a></li>
 					<li><a href="/move/Accessory-Footmuff" class="mb04">Footmuff</a></li>
@@ -47,51 +49,52 @@
 					<li><a href="/move/Accessory-Weather-Shield" class="mb07">Weather Shield</a></li>
 				</ul>
 			</div>
-			
+
 		</div>
           </ul>
         </li>
-		 <li class="dropdown 
-	@if(Request::is('relax/*'))
-					active"
-					@endif
- ">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Relax <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <div id="section">
-			
-			<div  id="banner2" class="banner">
-				<ul class="banner-img">
-					<li><a href="/relax/Easyfold Travel Cot" id="mb08"><img src="../img/3-in-1-travel-cot.jpg" alt="" /></a></li>
-					<li><a href="/relax/test1" id="mb09"><img src="../img/3-in-1-travel-bassinet.jpg" alt="" /></a></li>
-				</ul>
-				<ul class="banner-txt">
-					<li><a href="/relax/Easyfold Travel Cot" class="mb08">Travel Cot</a></li>
-					<!-- Hidden accessaries part
-					<li><a href="/relax/test1" class="mb09">Trave Bassinet</a></li>
-					-->
-				</ul>
-			</div>
-          </ul>
-		  <li 
+
+<!-- hiden nav relax tag
+        <li
+     @if(Request::is('relax/*'))
+         class="dropdown active"
+     @else
+         class="dropdown"
+     @endif
+   >
+             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Relax <span class="caret"></span></a>
+             <ul class="dropdown-menu">
+               <div id="section">
+
+         <div  id="banner2" class="banner">
+           <ul class="banner-img">
+             <li><a href="/relax/Easyfold Travel Cot" id="mb08"><img src="../img/3-in-1-travel-cot.jpg" alt="" /></a></li>
+             <li><a href="/relax/test1" id="mb09"><img src="../img/3-in-1-travel-bassinet.jpg" alt="" /></a></li>
+           </ul>
+           <ul class="banner-txt">
+             <li><a href="/relax/Easyfold Travel Cot" class="mb08">Travel Cot</a></li>
+
+           </ul>
+         </div>
+         </div>
+             </ul>
+           </li>
+-->
+
+
+		  <li
 					@if(Request::path() == 'watch-us')
 					class="active"
 					@endif
 					><a href="/watch-us">Watch Us</a></li>
-		  <li 
+		  <li
 					@if(Request::path() == 'contact-us')
 					class="active"
 					@endif
 					><a href="/contact-us">Contact Us</a></li>
         </li>
       </ul>
-      <form name="search" method="POST" action="{{URL::route('search')}}" class="navbar-form navbar-left" role="search">
-	  <input type="hidden" name="_token" value="<?php echo csrf_token(); ?>">
-        <div class="form-group">
-          <input type="text" name="searchWord" class="form-control" placeholder="Search">
-        </div>
-        <button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
-      </form>
+    
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>

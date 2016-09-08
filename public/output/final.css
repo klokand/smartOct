@@ -109,12 +109,19 @@ div.banner ul.banner-txt > li.on{background:url(/img/icon_bullet.png) no-repeat 
 
 @media screen and (min-width:992px){
 	#rl-indent{
-		background: url(/img/shadow.png) repeat-y,url(/img/shadow.png) repeat-y right top;
+		/*background: url(/img/shadow.png) repeat-y,url(/img/shadow.png) repeat-y right top;
+		*/
+		background-image:url(/img/shadow.png),url(/img/shadow.png);
+		background-repeat:repeat-y, repeat-y;
+		background-position: right top, left top;
 		/*min-height: 600px;*/
+	}
+	.bgCover{
+		background-color: white;
+		width: 99%;
 	}
 	#header-slider-wrap{
 		border: 5px solid grey;
-		margin-right: 10px;
 	}
 
 	#logo1{
@@ -128,7 +135,7 @@ padding-top: 7px;
 		 clear: both;
 	}
 	#topbar2{
-		padding-top:120px;
+
 	}
 	#topSocials{
 		left:68px;
@@ -136,7 +143,7 @@ padding-top: 7px;
 	#topSocials img{
 		display:inline;
 	}
-	
+
 /*nav bar*/
 /*tools*/
 .nopadding{
@@ -146,13 +153,12 @@ padding-top: 7px;
 	display:none;
 }
 .hide-fold{
-	width: 69%;
+	width: 58%;
 }
 
 .navbar{
 	z-index:1;
-	margin-left: 12%;
-	width: 74%;
+	width: 100%;
 	margin-bottom:0px;
 }
 .narbar-default{
@@ -165,12 +171,34 @@ padding-top: 7px;
 #bs-example-navbar-collapse-1{
 	padding:0px;
 }
+#bs-example-navbar-collapse-1>ul{
+	width: 100%!important;
+}
+#bs-example-navbar-collapse-1>ul>li{
+	width: 25%!important;
+	font-size: 30px;
+  text-align: center;
+  background-color: gray;
+}
+#bs-example-navbar-collapse-1>ul>li>a{
+	color:white;
+}
+
+
+#bs-example-navbar-collapse-1>ul>li.active>a{
+	color:#808080;
+}
+
+#navContainer{
+	padding-bottom: 10px;
+}
+
 .nav li a{}
 .dropdown-menu{
 	padding:0px !important;
 }
-ul.navbar li:hover{
-	background-color:#50B948!important;
+#bs-example-navbar-collapse-1>ul.navbar>li>a:hover{
+	background-color:red!important;
 }
 
 #banner1 ul.banner-txt li.catalog{
@@ -183,7 +211,7 @@ ul.navbar li:hover{
 /*slider*/
 
 #carousel-slider{
-	width: 98%;
+	width: 99%;
 position: relative;
 left: 20px;
 }
@@ -193,12 +221,18 @@ height: 12px;
 margin: 0;
 background-color: #50B948;
 }
+#carousel-slider .carousel-inner .item img{
+	width:100%!important;
+}
 
 #post-section{
 	padding: 15px;
 }
+#post-section img{
+	width:100%!important;
+}
 #video-action{
-	height: 225px;
+	height: 255px;
 background: url(/img/demo.png) repeat;
 }
 #video-action h2{
@@ -212,7 +246,9 @@ background: url(/img/demo.png) repeat;
 	text-align:center;
 }
 #video-action a img{
-	padding-left:30px;
+	padding-left:10%;
+	padding-right: 10%;
+	width:100%;
 }
 #products{
 height: 233px;
@@ -447,7 +483,8 @@ line-height: 20px;
 }
 #productdetail .passage-wrap .product-section .product-image img{
 	margin-top: 27px;
-margin-left: -20px;
+	margin-left: -20px;
+	max-height: 360px;
 }
 
 #productdetail .passage-wrap .product-section .product-image img.color-image2{
@@ -618,4 +655,5 @@ font-size:20px;
 body{
 	font: 13px/1.231 "Trebuchet MS", Arial, Helvetica, sans-serif;
 }
+
 /*# sourceMappingURL=final.css.map */

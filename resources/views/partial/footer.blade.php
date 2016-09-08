@@ -83,7 +83,7 @@
 <a href="http://www.quicksmartgo.com/index.php?option=com_rubberdoc&amp;view=doc&amp;id=1&amp;format=raw" class="col-md-8"><img src="/img/quicksmart-brochure.jpg" alt=""></a>
 </div>
 -->
-<div class="col-md-12 footer6">
+<div class="col-md-12 footer6 row">
 	<ul>
 		<li>{{Carbon\Carbon::today()->format('Y')}}© Dalegroup International</li>
 		<li><a href="/sitemap">Sitemap</a></li>

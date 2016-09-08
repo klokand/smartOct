@@ -9,7 +9,7 @@
 	<meta name="title" content="QuickSmartMove">
 	<meta name="description" content="Quicksmart foldable, portable, compact strollers, cots, high chairs and ride ons, are cleverly created to keep families on the go.">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
+
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,17 +19,19 @@
 </head>
 <body>
 	<div class="container">
-		<div id="rl-indent" class="col-md-offset-1 col-md-10">
-		<div id="header-slider-wrap">
+		<div id="rl-indent" class="col-md-12">
+			<div class="bgCover col-md-12">
+			<div id="header-slider-wrap">
 			@include('partial.header')
 			@if(Request::is('/'))
 					@include('partial.slider')
 			@endif
-		</div>
-	<div id="content" class="row">
-	@yield('content')
-	</div>
-	@include('partial.footer')
+			</div>
+			<div id="content" class="row">
+				@yield('content')
+			</div>
+			@include('partial.footer')
+			</div>
 		</div>
 	</div>
 	<!-- Scripts -->
