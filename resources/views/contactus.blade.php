@@ -4,10 +4,12 @@
 	<div class="title col-md-12 clear-fix">Contact Us</div>
 	<div class="passage-wrap row">
 		<div class="passage col-md-8">
-			<p>Need to know more about QuickSmart?<p>
-			<p>Need to contact us? We'd love to hear from you. Phone us during regular business hours or send us an email any time and we'll get back to you Quick Smart.</p>
-			<p><strong>Email:</strong>orders@dalegroup.com.au</p>
-			
+			<p>Need to know more about Move by Playette&trade;?<p>
+			<p>Need to contact us? We'd love to hear from you. Phone us during regular business hours or send us an email any time and we'll get back to you.</p>
+			<p><strong>Phone: </strong>+61 3 9553 0024</p>
+			<p><strong>Fax: </strong>+61 3 9553 0036</p>
+			<p><strong>Email: </strong>orders@dalegroup.com.au</p>
+
 		</div>
 		<div class="col-md-4 de-image"><img class="img-responsive" src="/img/Stockists_50K.jpg"></div>
 		<div class="queryForm col-xs-12 col-sm-12 col-md-8">
@@ -53,7 +55,7 @@
 					</div>
 					<div class="g-recaptcha form-group" data-sitekey="6Lcj2g4TAAAAAONnhhStFLJ0ZchtwWaxaoNPkwwB"></div>
 					<button type="submit" class="btn btn-primary btn-lg btn-block">Submit</button>
-				</form>	
+				</form>
 </div>
 	</div>
 </div>

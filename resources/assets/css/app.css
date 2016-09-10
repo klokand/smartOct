@@ -144,7 +144,7 @@ background-color: #50B948;
 	width:100%!important;
 }
 #video-action{
-	height: 255px;
+	height: 300px;
 background: url(/img/demo.png) repeat;
 }
 #video-action h2{
@@ -163,7 +163,7 @@ background: url(/img/demo.png) repeat;
 	width:100%;
 }
 #products{
-height: 233px;
+height: 497px;
 margin-left: 13px;
 padding-bottom: 0px;
 width: 97%;
@@ -201,28 +201,37 @@ width: 97%;
 	padding-top:10px;
 }
 
-#links-section{
-margin-top: 23px;
-margin-left: 11px;
-background: url(/img/923x185-bottom-of-home-page.jpg) no-repeat;
-height: 176px;
-background-size: 99%;
-clear: both;
+.footer-links{
+	background-color: #818286;
+	    min-height: 185px;
 }
-#links-section ul{
-	height:170px;
+
+
+
+.footer-about, .footer-contact, .footer-youtube, .footer-pdf{
+	background: url(/img/923x185-bottom-of-home-page.jpg) no-repeat;
+	display: block;
 }
-#links-section ul li{
-display: inline-block;
-margin-top: 75px;
-margin-left: -9px;
+
+.footer-about{
+	background-position: 0px 0px;
+	height: 185px;
+	width: 230px;
 }
-#links-section ul li a{
-padding-top: 70px;
-padding-bottom: 75px;
-padding-left: 92px;
-padding-right: 88px;
-margin-left: 43px;
+.footer-contact{
+	background-position: -230px 0px;
+	height: 185px;
+	width: 230px;
+}
+.footer-youtube{
+	background-position: -460px 0px;
+	height: 185px;
+	width: 230px;
+}
+.footer-pdf{
+	background-position: -690px 0px;
+	height: 185px;
+	width: 230px;
 }
 /*
 #footer{
@@ -291,12 +300,16 @@ top: 15px;
 	min-height:500px;
 	clear:both;
 	margin-left: 25px;
-margin-right: 37px;
-margin-bottom: 15px;
+	margin-right: 37px;
+	margin-bottom: 15px;
 }
 #content .detail .title{
 	font-size:30px;
-	background:url(/img/heading-bg.png) no-repeat;
+	background: #ececec;
+}
+
+#content #aboutUs .passage p{
+	line-height: 30px;
 }
 #content .detail .passage-wrap{
 	background: #ececec;

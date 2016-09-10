@@ -1,14 +1,14 @@
 $(document).ready(function() {
 	$('#carousel-slider').carousel();
-	$('#banner1').myelinSlider({});	
+	$('#banner1').myelinSlider({});
 	$('#banner2').myelinSlider({});
-	
+
 	$(".group1").colorbox({rel:'group1',maxWidth:800,height:700,});
 	$(".zoom-image").colorbox({rel:'zoom-image',});
 	$(".fold-image").colorbox({rel:'fold-image',maxWidth:800,height:700,});
 	$(".iframe").colorbox({iframe:true, width:"80%", height:"80%"});
 	$(".youtube").colorbox({iframe:true, innerWidth:640, innerHeight:390});
-	
+
 	$("#color-button2").click(function(){
 		if(!$(".color-image2").is(":visible")){
 			$(".color-image1").hide();
@@ -22,11 +22,11 @@ $(document).ready(function() {
 			$(".color-image1").show();
 		}
     });
-	
-	
+
+
 	$.fn.tubber.defaults.apiKey = 'AIzaSyA9lThqAGto42AvFyIXNbDRsA70SS3q6pI';
 $('#video-container').tubber({
-	username: 'QuickSmartGo',
+	channelId:'UCi_E5lbC8IdHFNlnBn7DhFQ',
 	itemsPerPage: 9,
 	embedVideo: false,
 	showVideoTitle: true,
@@ -46,7 +46,7 @@ $("a.allView").click(function(){
 });
 
 $('#queryForm').submit(function(event) {
-	
+
 	/* stop form from submitting normally */
   	event.preventDefault();
 	var fname = $('input[name=firstName]').val();

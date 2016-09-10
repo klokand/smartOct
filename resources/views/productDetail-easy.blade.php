@@ -3,11 +3,11 @@
 <div id="productdetail" class="detail row">
 	<div class="passage-wrap row">
 	 <div class="product-section">
-	
+
 		<div class="product-description col-md-5">
 			<div class="title1">Easy fold</div>
 			<div class="title2">Stroller</div>
-			<div class="summary">The QuickSmart Easyfold Stroller is unlike any other four wheel stroller. With the revolutionary QuickSmart folding system it is ready to go in just seconds!</div>
+			<div class="summary">The Easyfold Stroller is unlike any other four wheel stroller. With the revolutionary folding system it is ready to go in just seconds!</div>
 			<div class="list">
 				<ul>
 					<li>Effortless fold and storage</li>
@@ -70,13 +70,13 @@
 		<a class="group1" href="/img/Copy of Easy Fold Unfolded next to Folded.jpg" title=""><img class="p-img img-thumbnail" src="/img/Copy of Easy Fold Unfolded next to Folded.jpg"></a>
 		<a class="group1" href="/img/Easy Fold Stroller in Bag on Model.jpg" title=""><img class="p-img img-thumbnail" src="/img/Easy Fold Stroller in Bag on Model.jpg"></a>
 		<a class="group1" href="/img/Stroller in Trunk.jpg" title=""><img class="p-img img-thumbnail" src="/img/Stroller in Trunk.jpg"></a>
-	
+
 		<a class='youtube' href="http://www.youtube.com/embed/LuV_nQnaDDk?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/easy-fold-stroller-sizzle.png"></a>
 		<a class='youtube' href="http://www.youtube.com/embed/m9Z9UMPyBUg?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/efs-v2.jpg"></a>
 		<a class='youtube' href="http://www.youtube.com/embed/vKLGXZeJ578?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/efs-v3.jpg"></a>
 	 </div>
 	 <div class="feedbacks hidden-print col-md-4"><p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3></div>
-	
+
 <div class="productInfo">
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
@@ -114,13 +114,13 @@ Available in a range of designer colours, for the style conscious family
 </li><li>
 Award winning design! Winner of the prestigious Australian Design Mark
 </li><li>Extra tall parent push bar Bonus bag makes storage, carrying and traveling a breeze</li>
-<li>Compliant with AS/NZS 2088: 2009 prams & stroller Safety requirement</li>
+<li>Compliant with EN1888:2012 prams & stroller Safety requirement</li>
 </ul>
 	</div>
   </div>
 
 	</div>
 </div>
-	
+
 </div>
 @endsection

@@ -1,22 +1,16 @@
 	@if(Request::is('move/*')||Request::is('relax/*'))
 <div id="products">
 <h2>Related Products</h2>
-	<div class="item col-md-2">
-	<a href="/move/Safeguard Newborn Stroller"><img class="img-responsive" src="/img/safeGuardProductlists.jpg"></a>
-	</div>
-	<div class="item col-md-2">
+	<div class="item col-md-3">
 	<a href="/move/Easyfold Stroller"><img class="img-responsive" src="/img/award grey EFS-t.jpg"></a>
 	</div>
-	<div class="item col-md-2">
+	<div class="item col-md-3">
 	<a href="/move/Easyfold Stroller"><img class="img-responsive" src="/img/award red EFS-t.jpg"></a>
 	</div>
-	<div class="item col-md-2">
-	<a href="/relax/Easyfold Travel Cot"><img class="img-responsive positionHelp" src="/img/award travel cot-t.jpg"></a>
-	</div>
-	<div class="item col-md-2">
+	<div class="item col-md-3">
 	<a href="/move/Backpack Stroller"><img class="img-responsive" src="/img/Geometric Red-t.jpg"></a>
 	</div>
-	<div class="item col-md-2">
+	<div class="item col-md-3">
 	<a href="/move/Backpack Stroller"><img class="img-responsive" src="/img/Black-t.jpg"></a>
 	</div>
 </div>
@@ -24,13 +18,11 @@
 @endif
 
 <div id="footer" class="hidden-print">
-<div id="links-section" class="row">
-<ul>
-	<li><a href="/about-us"></a></li>
-	<li><a href="/contact-us"></a></li>
-	<li><a target="_blank" href="https://www.youtube.com/user/QuickSmartGo"></a></li>
-	<li><a href="/download/Quicksmart by Playette 2016 online.pdf" target="_blank"></a></li>
-</ul>
+<div class="footer-links">
+	<div class="col-md-3"><a class="footer-about" href="/about-us"></a></div>
+	<div class="col-md-3"><a class="footer-contact" href="/contact-us"></a></div>
+	<div class="col-md-3"><a class="footer-youtube" target="_blank" href="https://www.youtube.com/channel/UCi_E5lbC8IdHFNlnBn7DhFQ"></a></div>
+	<div class="col-md-3"><a class="footer-pdf" href="/download/Quicksmart by Playette 2016 online.pdf" target="_blank"></a></div>
 </div>
 <!--
 <div class="col-md-2 footer1">
