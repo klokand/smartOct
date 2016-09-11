@@ -7,10 +7,10 @@
 <div id="video-action">
 	<h2>View the Move by Playette™ products in action</h2>
 	<div class="col-md-offset-1 col-md-5">
-	<a class='youtube' href="http://www.youtube.com/embed/LuV_nQnaDDk?rel=0&amp;wmode=transparent"><img src="/img/easyfold-stroller-video.png"></a><p>Easy Fold Stroller</p>
+	<a class='youtube' href="http://www.youtube.com/embed/A_-nz420lLU?rel=0&amp;wmode=transparent"><img src="/img/easyfold-stroller-video.png"></a><p>Easy Fold Stroller</p>
 	</div>
 	<div class="col-md-5">
-	<a class='youtube' href="http://www.youtube.com/embed/2-1U7ZbvFZc?rel=0&amp;wmode=transparent"><img src="/img/backpack-stroller-video.png"></a><p>Backpack Stroller</p>
+	<a class='youtube' href="http://www.youtube.com/embed/tYI2kQmRAfY?rel=0&amp;wmode=transparent"><img src="/img/backpack-stroller-video.png"></a><p>Backpack Stroller</p>
 	</div>
 </div>
 <div id="products">

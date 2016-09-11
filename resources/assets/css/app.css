@@ -28,6 +28,14 @@
 		background-position: right top, left top;
 		/*min-height: 600px;*/
 	}
+
+	.navbar-nav>li>a {
+    padding-top: 8px!important;
+    padding-bottom: 8px!important;
+}
+	.navbar{
+		min-height: 30px!important;
+	}
 	.bgCover{
 		background-color: white;
 		width: 99%;
@@ -88,7 +96,7 @@ padding-top: 7px;
 }
 #bs-example-navbar-collapse-1>ul>li{
 	width: 25%!important;
-	font-size: 30px;
+	font-size: 20px;
   text-align: center;
   background-color: gray;
 }

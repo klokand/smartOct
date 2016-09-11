@@ -12,7 +12,7 @@
 			      </form>
 				</div>
 				<div id="topSocials" class="col-md-offset-8 col-md-4 hidden-print">
-				<a href="http://youtube.com/QuickSmartGo" rel="nofollow" title="YouTube: QuickSmartGo" target="_blank"><img class="img-responsive" src="/img/youtube.png" alt="YouTube: QuickSmartMove"></a>
+				<a href="https://www.youtube.com/channel/UCi_E5lbC8IdHFNlnBn7DhFQ" rel="nofollow" title="YouTube: Playette" target="_blank"><img class="img-responsive" src="/img/youtube.png" alt="YouTube: QuickSmartMove"></a>
 					<a href="/contact-us">Contact Us</a>
 				</div>
 			<div id="logo2" class="col-md-offset-2 col-md-10"><img src="/img/on-the-go.jpg" class="img-responsive"></div>

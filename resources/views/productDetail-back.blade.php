@@ -54,7 +54,7 @@
 		 </div>
 		</div>
 	 </div>
-	 <div class="nopadding product-images hidden-print col-md-8">
+	 <div class="nopadding product-images hidden-print col-md-12">
 		<a class="group1" href="/img/3629x5443-bp-stroller-walking.jpg" title=""><img class="p-img img-thumbnail" src="/img/3629x5443-bp-stroller-walking.jpg"></a>
 		<a class="group1" href="/img/THIS-FITS-IN-HERE.jpg" title=""><img class="p-img img-thumbnail" src="/img/THIS-FITS-IN-HERE.jpg"></a>
 		<a class="group1" href="/img/Backpack Stroller Geometric Red and Grey.jpg" title=""><img class="p-img img-thumbnail" src="/img/Backpack Stroller Geometric Red and Grey.jpg"></a>
