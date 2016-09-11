@@ -55,16 +55,14 @@
 		</div>
 	 </div>
 	 <div class="nopadding product-images hidden-print col-md-8">
-		<a class="group1" href="/img/Model Walking with BP Stroller.jpg" title=""><img class="p-img img-thumbnail" src="/img/Model Walking with BP Stroller.jpg"></a>
-		<a class="group1" href="/img/Backpack Stroller.jpg" title=""><img class="p-img img-thumbnail" src="/img/Backpack Stroller.jpg"></a>
+		<a class="group1" href="/img/3629x5443-bp-stroller-walking.jpg" title=""><img class="p-img img-thumbnail" src="/img/3629x5443-bp-stroller-walking.jpg"></a>
+		<a class="group1" href="/img/THIS-FITS-IN-HERE.jpg" title=""><img class="p-img img-thumbnail" src="/img/THIS-FITS-IN-HERE.jpg"></a>
 		<a class="group1" href="/img/Backpack Stroller Geometric Red and Grey.jpg" title=""><img class="p-img img-thumbnail" src="/img/Backpack Stroller Geometric Red and Grey.jpg"></a>
 		<a class="group1" href="/img/backpack stroller in cabin.jpg" title=""><img class="p-img img-thumbnail" src="/img/backpack stroller in cabin.jpg"></a>
 		<a class="group1" href="/img/backpack_07[1].jpg" title=""><img class="p-img img-thumbnail" src="/img/backpack_07[1].jpg"></a>
 
-		<a class='youtube' href="http://www.youtube.com/embed/j7jAHA97C8k?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/eb-v1.jpg"></a>
 		<a class='youtube' href="http://www.youtube.com/embed/ph3KYjio7kw?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/eb-v2.jpg"></a>
 		<a class='youtube' href="http://www.youtube.com/embed/tYI2kQmRAfY?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/eb-v5.jpg"></a>
-		<a class='youtube' href="http://www.youtube.com/embed/0xNHBUkfdC0?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/eb-v4.jpg"></a>
 	 </div>
 	 <div class="hidden-print col-md-4"><img class="img-responsive col-md-offset-2 col-md-8" src="/img/Silver-Back-Pack-Stroller-AWard.jpg">
 	 <!--<p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3>-->

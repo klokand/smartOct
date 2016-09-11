@@ -25,7 +25,7 @@
 		<div class="product-rightside col-md-4">
 		 <div class="product-tranbox col-md-12">
 			<div class="product-side1 col-md-12">
-			$279.99 AUD</div>
+			$299.99 AUD</div>
 			<div class="product-colors col-md-12">
 			<div class="radio">
 				<label>
@@ -69,11 +69,10 @@
 		<a class="group1" href="/img/Copy of Complete.jpg" title=""><img class="p-img img-thumbnail" src="/img/Copy of Complete.jpg"></a>
 		<a class="group1" href="/img/Copy of Easy Fold Unfolded next to Folded.jpg" title=""><img class="p-img img-thumbnail" src="/img/Copy of Easy Fold Unfolded next to Folded.jpg"></a>
 		<a class="group1" href="/img/Easy Fold Stroller in Bag on Model.jpg" title=""><img class="p-img img-thumbnail" src="/img/Easy Fold Stroller in Bag on Model.jpg"></a>
-		<a class="group1" href="/img/Stroller in Trunk.jpg" title=""><img class="p-img img-thumbnail" src="/img/Stroller in Trunk.jpg"></a>
+		<a class="group1" href="/img/3629x5443-EFS-stroller-walking.jpg" title=""><img class="p-img img-thumbnail" src="/img/3629x5443-EFS-stroller-walking.jpg"></a>
 
-		<a class='youtube' href="http://www.youtube.com/embed/LuV_nQnaDDk?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/easy-fold-stroller-sizzle.png"></a>
+		<a class='youtube' href="http://www.youtube.com/embed/A_-nz420lLU?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/easy-fold-stroller-sizzle.png"></a>
 		<a class='youtube' href="http://www.youtube.com/embed/m9Z9UMPyBUg?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/efs-v2.jpg"></a>
-		<a class='youtube' href="http://www.youtube.com/embed/vKLGXZeJ578?rel=0&amp;wmode=transparent"><img class="p-img img-thumbnail" src="/img/efs-v3.jpg"></a>
 	 </div>
 	 <div class="feedbacks hidden-print col-md-4"><p>I get so many jealous looks in the carpark when I open my stroller with one hand, and little Issy in my other arm. She loves it too which makes my life easier.</p><h3>Karinne Mcneill</h3></div>
 
