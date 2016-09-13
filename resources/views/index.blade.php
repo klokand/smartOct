@@ -2,7 +2,7 @@
 @section('content')
 
 <div id="post-section" class="row">
-<img src="/img/923x185 home page.jpg" class="img-responsive">
+<img src="/img/923x185-home-page16.jpg" class="img-responsive">
 </div>
 <div id="video-action">
 	<h2>View the Move by Playette™ products in action</h2>

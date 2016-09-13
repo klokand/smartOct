@@ -15,7 +15,7 @@
       <img src="/img/997x373-bpack-banner.jpg" alt="Back pack">
     </div>
     <div class="item">
-       <img src="/img/drawhome-banner997x373.jpg" alt="Back pack">
+       <img src="/img/drawhome-banner997x373-16.jpg" alt="Back pack">
      </div>
   </div>
 

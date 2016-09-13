@@ -78,7 +78,6 @@
 <div class="col-md-12 footer6 row">
 	<ul>
 		<li>{{Carbon\Carbon::today()->format('Y')}}© Dalegroup International</li>
-		<li><a href="/sitemap">Sitemap</a></li>
 		<li><a href="/privacy-policy">Privacy Policy</a></li>
 	</ul>
 </div>
