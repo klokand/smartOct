@@ -26,7 +26,7 @@ $(document).ready(function() {
 
 	$.fn.tubber.defaults.apiKey = 'AIzaSyA9lThqAGto42AvFyIXNbDRsA70SS3q6pI';
 $('#video-container').tubber({
-	channelId:'UCi_E5lbC8IdHFNlnBn7DhFQ',
+	channelId:'UCaZ5QBBhbTLPbELkAWqToYg',
 	itemsPerPage: 9,
 	embedVideo: false,
 	showVideoTitle: true,
