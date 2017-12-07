@@ -22,7 +22,7 @@
 	<div class="col-md-3"><a class="footer-about" href="/about-us"></a></div>
 	<div class="col-md-3"><a class="footer-contact" href="/contact-us"></a></div>
 	<div class="col-md-3"><a class="footer-youtube" target="_blank" href="https://www.youtube.com/channel/UCi_E5lbC8IdHFNlnBn7DhFQ"></a></div>
-	<div class="col-md-3"><a class="footer-pdf" href="/download/MOVE by Playette Flyer.pdf" target="_blank"></a></div>
+	<div class="col-md-3"><a class="footer-pdf" href="https://s3-ap-southeast-2.amazonaws.com/dalegroupinternational/Move+by+PLayette+Stroller+26-7-17.pdf" target="_blank"></a></div>
 </div>
 <!--
 <div class="col-md-2 footer1">
